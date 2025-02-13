@@ -11,4 +11,5 @@ gem 'webrick'
 gem 'jekyll-remote-theme'
 gem 'jekyll-avatar'
 gem "jekyll-github-metadata", :github => "jekyll/github-metadata"
+gem "jekyll-include-cache"
 # gem "rails"
