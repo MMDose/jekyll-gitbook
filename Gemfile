@@ -10,4 +10,5 @@ gem 'jemoji'
 gem 'webrick'
 gem 'jekyll-remote-theme'
 gem 'jekyll-avatar'
+gem "jekyll-github-metadata", :github => "jekyll/github-metadata"
 # gem "rails"
