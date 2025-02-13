@@ -9,4 +9,5 @@ gem 'jekyll-readme-index'
 gem 'jemoji'
 gem 'webrick'
 gem 'jekyll-remote-theme'
+gem 'jekyll-avatar'
 # gem "rails"
