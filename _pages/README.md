@@ -37,7 +37,7 @@ Together, we’ll build something that’s not only **sustainable** but **unstop
 
 
 
-**Website:** [**https://odincoin.xyz**](https://odincoin.xyz)
+**Website:** [**https://odin.tools/**](https://odin.tools/)
 
 **Telegram Community:** [**https://t.me/odintoolsportal**](https://t.me/odintoolsportal)
 

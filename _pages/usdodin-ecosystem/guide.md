@@ -1,7 +1,7 @@
 ---
-description: "•\tHow to use the bot?"
 icon: person-hiking
-cover: ../.gitbook/assets/DEX BANNER.png
+description: "•\tHow to use the bot?"
+cover: ../.gitbook/assets/photo_2025-01-30_13-58-19.jpg
 coverY: 0
 layout:
   cover:
