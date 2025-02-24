@@ -2,7 +2,7 @@
 title: Jekyll Gitbook Theme
 permalink: /
 icon: user-beard-bolt
-cover: .gitbook/assets/fenrir-banner (1).jpg
+cover: .gitbook/assets/wolf.jpg
 coverY: 0
 layout:
   cover:

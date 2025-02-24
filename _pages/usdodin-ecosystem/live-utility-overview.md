@@ -1,9 +1,9 @@
 ---
+icon: uncharted
 description: >-
   We support balance withdrawal, stop the bot whenever you like and withdraw the
   remaining balance.
-icon: uncharted
-cover: ../.gitbook/assets/Gc8-bsOWMAEMr9w.jpeg
+cover: ../.gitbook/assets/hammer.jpg
 coverY: 0
 layout:
   cover:
