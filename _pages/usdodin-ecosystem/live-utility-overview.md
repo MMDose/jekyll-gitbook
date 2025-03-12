@@ -1,10 +1,10 @@
 ---
-icon: uncharted
 description: >-
   We support balance withdrawal, stop the bot whenever you like and withdraw the
   remaining balance.
+icon: uncharted
 cover: ../.gitbook/assets/hammer.jpg
-coverY: 0
+coverY: 297.3226666666667
 layout:
   cover:
     visible: true

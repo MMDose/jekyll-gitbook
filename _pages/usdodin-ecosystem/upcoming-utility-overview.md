@@ -1,12 +1,12 @@
 ---
 description: Under construction 🏗️
 icon: cauldron
-cover: ../.gitbook/assets/horn3jpg.jpg
-coverY: 179.216809228039
+cover: ../.gitbook/assets/800x250.gif
+coverY: 108.21680922803898
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:

@@ -2,12 +2,12 @@
 title: Jekyll Gitbook Theme
 permalink: /
 icon: user-beard-bolt
-cover: .gitbook/assets/wolf.jpg
+cover: .gitbook/assets/800x250.gif
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
