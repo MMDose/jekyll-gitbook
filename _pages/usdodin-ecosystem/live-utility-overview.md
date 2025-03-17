@@ -61,8 +61,6 @@ Key Features:
 
 • High Impact: Ensure your token’s visibility on charts with tracked trades
 
-• Weekly Renewals: Flexible 0.5 SOL service cost per week, per contract address
-
 Safe Execution:&#x20;
 
 • Transaction Bundling: Fenrir uses jto bundle to execute transactions. Each bundle contains 6 buy and 3 sell transactions, all from unique makers, ensuring authenticity. Impossible to sandwich the transactions
@@ -87,6 +85,16 @@ Increase token holders effortlessly with flexible and cost-effective solutions
 • Keep holders for as long as you like—no time limitations!
 
 • 0.005 SOL per holder (You can reclaim after removing the holder)
+
+
+
+### Reactions Booster
+
+Increase token reactions emoji effortlessly with flexible and cost-effective solutions
+
+**BumpBot**
+
+Free for $ODIN holders, this bot ensures your presence stays strong. Push your projects and make your moves known (Available inside the Telegram Bot)
 
 \
 

@@ -34,12 +34,10 @@ The Raydium Utility is all about making token minting, liquidity creation, and b
 
 
 * **PumpFun Bundler (Block 0 & Organic)**: A smarter bundler that helps you move faster and more efficiently. Expect better optimization for your pumps without the usual hassle
-* **BumpBot**: Free for $ODIN holders, this bot ensures your presence stays strong. Push your projects and make your moves known (Available inside the Telegram Bot)
 * **Comment & Hyper Bot**: Boost your engagement and be seen across the board. Maximize your impact with these bots, putting you in front of more eyes and more interactions
 
 #### **Further Utility:**
 
 * **Market Maker & Organic Volume Bot**: Set to boost market depth and create organic volume with precision. These are built for steady, reliable market flow
 * **Copy Trader & LP Sniper (Odin Snipe)**: Ready to capitalize on the big plays. Copy the pros and hit those sniper shots like a Viking
-* **Raid Bot with Odin Graphics and Automatic Twitter Raider**: The automatic engagement bot, bringing likes, retweets, and comments to your posts with organic accounts. If you’ve got Twitter game, this will make it pop
 
