@@ -90,9 +90,11 @@ Increase token holders effortlessly with flexible and cost-effective solutions
 
 ### Reactions Booster
 
-Increase token reactions emoji effortlessly with flexible and cost-effective solutions
+Increase token reactions (Fire or Rockets) emoji effortlessly with flexible and cost-effective solutions
 
-**BumpBot**
+###
+
+### PumpFun BumpBot
 
 Free for $ODIN holders, this bot ensures your presence stays strong. Push your projects and make your moves known (Available inside the Telegram Bot)
 
