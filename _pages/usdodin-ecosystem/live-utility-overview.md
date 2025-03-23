@@ -43,7 +43,7 @@ Key Features:
 
 💰 Service Cost
 
-min deposit of 2.5 SOL per contract address
+min deposit of 1.5 SOL per contract address
 
 &#x20;• 1 SOL per contract address
 
@@ -51,7 +51,7 @@ Harness the Power of Mjolnir – the ultimate tool to fortify your token’s rep
 
 
 
-## 🪓 Volume Bot: Fenrir The Most Low-Cost, Ferocious
+## Volume Bot: Fenrir The Most Low-Cost, Ferocious 🪓
 
 Unleash 160K+ in trading volume with just a 3 SOL deposit — unstoppable power at an unbeatable cost
 
@@ -68,15 +68,13 @@ Safe Execution:&#x20;
 \
 💰 Service Cost
 
-min deposit of 3 SOL per contract address
+min deposit of 2 SOL per contract address
 
 &#x20;•  1 SOL per contract address
 
 Empower your token with Fenrir — the relentless beast of the blockchain!
 
 &#x20;&#x20;
-
-
 
 ## Holder Booster 🧍‍♂️🧍🧍🏿‍♀️+
 
@@ -90,25 +88,21 @@ Increase token holders effortlessly with flexible and cost-effective solutions
 
 
 
-
-
 ## Reactions Booster 🔥🚀
 
-Increase token reactions (Fire or Rockets) emoji effortlessly with flexible and cost-effective solutio
+Increase token reactions (Fire or Rockets) emoji effortlessly with flexible and cost-effective solution.
 
 
 
-## Heimdall
+## Heimdall 🛡️
 
 The all-seeing guardian, protecting the realm from scammers and spammers, ensuring only the worthy remain.
 
-Heimdall is plug and play. Add me to group, give me admin permissions and I will take care of scammers and spammers.
+Heimdall is plug and play. Add it to the group, give it admin permissions and it will take care of scammers and spammers.
 
 
 
-
-
-## PumpFun Bumpbot
+## PumpFun Bumpbot 💊
 
 Free for $ODIN holders, this bot ensures your presence stays strong. Push your projects and make your moves known (Available inside the Telegram Bot)
 
