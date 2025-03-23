@@ -23,7 +23,7 @@ layout:
 
 # Live Utility Overview
 
-## Rank Boost: Mjolnir
+## Rank Boost: Mjolnir ⚡⚡⚡
 
 Ascend the Rankings with Mjolnir’s Might!
 
@@ -76,7 +76,9 @@ Empower your token with Fenrir — the relentless beast of the blockchain!
 
 &#x20;&#x20;
 
-### Holder Booster
+
+
+## Holder Booster 🧍‍♂️🧍🧍🏿‍♀️+
 
 Increase token holders effortlessly with flexible and cost-effective solutions
 
@@ -88,13 +90,25 @@ Increase token holders effortlessly with flexible and cost-effective solutions
 
 
 
-### Reactions Booster
 
-Increase token reactions (Fire or Rockets) emoji effortlessly with flexible and cost-effective solutions
 
-###
+## Reactions Booster 🔥🚀
 
-### PumpFun BumpBot
+Increase token reactions (Fire or Rockets) emoji effortlessly with flexible and cost-effective solutio
+
+
+
+## Heimdall
+
+The all-seeing guardian, protecting the realm from scammers and spammers, ensuring only the worthy remain.
+
+Heimdall is plug and play. Add me to group, give me admin permissions and I will take care of scammers and spammers.
+
+
+
+
+
+## PumpFun Bumpbot
 
 Free for $ODIN holders, this bot ensures your presence stays strong. Push your projects and make your moves known (Available inside the Telegram Bot)
 

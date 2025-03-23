@@ -47,18 +47,13 @@ Together, we’ll build something that’s not only **sustainable** but **unstop
 
 ## TOKENOMICS
 
+Supply: 100,000,000 $ODIN
 
-
-28% Liquidity
+53% Liquidity
 
 23% Presale
 
-10% Marketing
+20% Locked
 
-7% Team
+4% Burned
 
-20% Development
-
-7% Treasury
-
-5% Airdrops
