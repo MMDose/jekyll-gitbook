@@ -1,59 +1,48 @@
 ---
 title: Jekyll Gitbook Theme
 permalink: /
+description: Blockchain Utilities for Coin
 icon: user-beard-bolt
 cover: .gitbook/assets/800x250.gif
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Introduction
+# Welcome to Odin Tools
 
-At $ODIN, we’re here to **dominate**. Our vision is clear: deliver **game-changing utility** at the most **efficient cost** while building a **tight-knit, Viking-inspired community** that stands stronger than ever
+**Odin Tools** is a battle-tested suite of powerful Telegram bots and utilities built for the **Solana blockchain** — already trusted and running strong for **over 8 months**.
 
-We’re not just offering tools and bots; we’re giving you the power to **thrive** and **crush** in this space.\
-And here’s where we have the real edge: **ODIN himself**. Just look at him – he’s a beast, a god of thunder and war, yet there’s something undeniably **charming** and even **cute** about him. He’s a perfect mix of raw, unstoppable power and an infectious energy that draws you in
+Whether you're launching a meme coin, managing volume, or growing a community — Odin Tools gives you everything you need to **build, trade, and promote** your project with confidence.
 
-Our **Viking narrative** is more than just a backstory – it’s an ethos, a **way of life** that fuels everything we do. It’s about strength, loyalty, and a relentless pursuit of greatness. It’s the fire behind our community, the reason why we don’t just want to compete – we want to **dominate**
+### 🧰 Utilities in Odin Tools
 
-We’re not just dominating in numbers, we’re tapping into something deeper. The team is **dedicated**, and we expect nothing less from our community\
-\
-This GitHub article is a deep dive into the **$ODIN ecosystem**. Sit back, read it through, and prepare to **become a real VIKING**!\
-\
-Together, we’ll build something that’s not only **sustainable** but **unstoppable!**
+### ⚡ Odin Tools Boosts
+
+Odin Tools offers powerful boosting utilities such as:
+
+* **Volume Bot**
+* **Rank Bot**
+* **Holder Booster**
+* And more...
+
+These tools help generate attention, simulate real activity, and encourage engagement.
+
+### 🛡 Heimdall — Telegram Group Protector
+
+**Heimdall** protects your Telegram groups from scammers, shillers, and any kind of spam or garbage that might threaten your community. A must-have for any serious project group.
+
+### ⚔️ Freya Raid Bot
+
+Powered by **RaidSharks**, **Freya** is a new and efficient way of running **X (Twitter) raids**.
+
+It offers:
+
+* Organic boosting for tweets (likes, bookmarks, retweets)
+* Instant engagement with 40+ verified accounts
+* A backup boost system when your community can't push a raid on its own
+
+When your community rests, Freya fights.
 
 
 
-**Website:** [**https://odin.tools/**](https://odin.tools/)
 
-**Telegram Community:** [**https://t.me/odintoolsportal**](https://t.me/odintoolsportal)
-
-**Twitter:** [**https://x.com/odincoinsol**](https://x.com/odincoinsol)
-
-**Bot:** [**https://t.me/odin\_tools\_bot**](https://t.me/odin_tools_bot)
-
-## TOKENOMICS
-
-Supply: 100,000,000 $ODIN
-
-53% Liquidity
-
-23% Presale
-
-20% Locked
-
-4% Burned
 

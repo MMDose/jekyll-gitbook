@@ -1,12 +1,13 @@
 # Table of contents
 
-## $ODIN ECOSYSTEM
+* [Welcome to Odin Tools](README.md)
 
-* [Introduction](README.md)
-* [ODIN Tools Guide](usdodin-ecosystem/guide.md)
-* [Live Utility Overview](usdodin-ecosystem/live-utility-overview.md)
-* [Upcoming Utility Overview](usdodin-ecosystem/upcoming-utility-overview.md)
-* [Referral System](usdodin-ecosystem/referral-system.md)
+## Tools
+
+* [Organic Volume Bot](tools/volume_bot.md)
+* [Volume Bot](tools/volume_bot-1.md)
+* [Rank Bot](tools/rank_bot.md)
+* [MultiWallet BuyBot](tools/rank_bot-1.md)
 
 ## Holder Benefits
 
