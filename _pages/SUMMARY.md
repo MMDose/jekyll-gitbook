@@ -4,14 +4,14 @@
 
 ## Tools
 
-* [Organic Volume Bot](tools/volume_bot.md)
-* [Volume Bot](tools/volume_bot-1.md)
+* [Organic Volume Bot](tools/organic_volume.md)
+* [Volume Bot](tools/volume_bot.md)
 * [Rank Bot](tools/rank_bot.md)
-* [MultiWallet BuyBot](tools/rank_bot-1.md)
+* [MultiWallet BuyBot](tools/multiwallet_buybot.md)
 
 ## Holder Benefits
 
 * [Revenue Share](holder-benefits/interactive-blocks.md)
 * [Holder Discounts & Subscriptions](holder-benefits/holder-discounts-and-subscriptions.md)
-* [Token-gated chat](holder-benefits/token-gated-chat.md)
-* [Server Priority](holder-benefits/server-priority.md)
+* [Top Holders](holder-benefits/top-holders.md)
+* [Referral Program](holder-benefits/referral-program.md)

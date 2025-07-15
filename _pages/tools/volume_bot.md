@@ -4,28 +4,26 @@ cover: ../.gitbook/assets/photo_2025-01-30_13-58-19.jpg
 coverY: 128.7415982076176
 ---
 
-# Organic Volume Bot
+# Volume Bot
 
-**Command:** `/organic_volume`
+**Command:** `/volume_bot`
 
-### What is Organic Volume Bot?
+### What is Volume Bot?
 
-The **Organic Volume Bot** is designed to simulate natural buy/sell activity using **up to 1000 wallets**, each trading your coin in a **non-bot-looking** way.
-
-With dynamic settings, you can adjust speed and delay to make trades look like **real user activity**.
+The **Volume Bot** is designed to simulate trading activity by performing multiple **linked buy/sell transactions** across many wallets. It’s built to be **cheap, fast, and highly effective**.
 
 ***
 
 ### Available Pools
 
 {% hint style="success" %}
-<p align="center"><strong><code>PumpSwap, PumpFun, Raydium AMM, Raydium CPMM, Raydium CLMM, Raydium Launchpad, Meteora DLMM, DYN, DLMM2</code></strong></p>
+<p align="center"><strong><code>PumpSwap, Raydium AMM, Raydium CPMM, Raydium CLMM, Raydium Launchpad, Meteora DLMM, DYN, DLMM2</code></strong></p>
 {% endhint %}
 
 ***
 
 {% hint style="danger" %}
-**Before starting the bot, set your contract address and whitelist it, then adjust the settings and hit start, then wait for buy sell performances from organic wallets.**&#x20;
+**Minimum deposit is 1.5 SOL for first deposit, 1 SOL will be charged for whitelisting the CA for User. Then bot is free from services fees. Recharge as much as you want and run as much as you want!**
 {% endhint %}
 
 ***
@@ -40,27 +38,35 @@ Start the bot manually. Stop it anytime when not needed, and **resume it instant
 {% endstep %}
 
 {% step %}
-**Settings**
+**Speed**
 
-* Adjust W/M (Wallets per Minute), higher they are higher is transaction rate per minute
-* Min Delay: Minimum delay between buy and sell transactions per wallet.&#x20;
-* Max Delay: Maximum delay between buy and sell transactions per wallet.&#x20;
+* Control how fast the bot sends transactions.
+* Higher speed = more volume but faster balance consumption.
+* Lower speed = more natural, slower burn.
+{% endstep %}
+
+{% step %}
+**Execution Mode**
+
+**NEW: Random Execution Mode hides bot patterns by performing randomized trades.**
+
+You can also define custom buy/sell ratios (e.g. 1:1, 3:2, 5:1).
+{% endstep %}
+
+{% step %}
+**Calculate Volume**
+
+Use the built-in calculator to estimate the **approximate volume** your deposit will generate — based on the current pool and SOL price.
 {% endstep %}
 {% endstepper %}
 
-<div align="left" data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2025-07-16 at 12.56.05 AM.png" alt=""><figcaption><p>Command /<code>organic_volume</code>, Organic Volume Bot Screen</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2025-07-16 at 12.53.44 AM.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2025-07-16 at 12.10.21 AM.png" alt=""><figcaption><p>Command /volume_bot, Volume Bot Screen</p></figcaption></figure> <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 ### ✅ Bot Checklist:
 
-1\. Set Token Contract Address &#x20;
-
-2\. Adjust Settings &#x20;
-
-3\. Whitelist CA (1 SOL) (if not already whitelisted) &#x20;
-
-4\. Deposit at least W/M Rate SOL to your Asgard Wallet &#x20;
-
-5\. Start the Organic Volume Bot
+1. Set your **Token Contract Address**
+2. Deposit at least **1.5 SOL** to your **Asgard Wallet (Bot Wallet). ONLY DEPOSIT SOLANA**&#x20;
+3. Start the bot using `/volume_bot`
 
 
 
