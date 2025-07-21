@@ -4,7 +4,8 @@
 
 ## Tools
 
-* [Organic Volume Bot](tools/organic_volume.md)
+* [Organic Volume Bot (No Bundle)](tools/organic_volume_no_bundle.md)
+* [Organic Volume Bot (Bundled)](tools/organic_volume_bundle.md)
 * [Volume Bot](tools/volume_bot.md)
 * [Rank Bot](tools/rank_bot.md)
 * [MultiWallet BuyBot](tools/multiwallet_buybot.md)

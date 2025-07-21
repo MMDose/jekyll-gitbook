@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/photo_2025-01-30_13-58-19.jpg
 coverY: 128.7415982076176
 ---
 
-# Organic Volume Bot
+# Organic Volume Bot (No Bundle)
 
 **Command:** `/organic_volume`
 
@@ -12,7 +12,7 @@ coverY: 128.7415982076176
 
 The **Organic Volume Bot** is designed to simulate natural buy/sell activity using **up to 1000 wallets**, each trading your coin in a **non-bot-looking** way.
 
-With dynamic settings, you can adjust speed and delay to make trades look like **real user activity**.
+With dynamic settings, you can adjust speed and delay to make trades look like **real trader activity**.
 
 ***
 
