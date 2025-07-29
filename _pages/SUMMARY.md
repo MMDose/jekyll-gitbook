@@ -16,3 +16,7 @@
 * [Holder Discounts & Subscriptions](holder-benefits/holder-discounts-and-subscriptions.md)
 * [Top Holders](holder-benefits/top-holders.md)
 * [Referral Program](holder-benefits/referral-program.md)
+
+***
+
+* [Odin Tools API Usage Guide for Partners](odin-tools-api-usage-guide-for-partners.md)
