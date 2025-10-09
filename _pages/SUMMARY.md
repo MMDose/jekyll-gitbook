@@ -20,3 +20,7 @@
 ***
 
 * [Odin Tools API Usage Guide for Partners](odin-tools-api-usage-guide-for-partners.md)
+
+## Heimdall
+
+* [Heimdall Community Protection](heimdall/heimdall-community-protection.md)
