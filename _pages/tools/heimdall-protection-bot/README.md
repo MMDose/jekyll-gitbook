@@ -1,6 +1,6 @@
-# Heimdall Community Protection
+# 🛡Heimdall - Protection bot
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 🛡 The Group Protection Bot
 
@@ -54,7 +54,7 @@ Easily access contract addresses, links, and information.
 \
 
 
-<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 #### 👤 User Check
 
@@ -65,7 +65,7 @@ View user ID, recent suspicious messages, and status.
 \
 
 
-<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 To explore more Heimdall features, type /menu in your group. Click Help for additional commands.

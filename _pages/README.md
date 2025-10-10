@@ -9,38 +9,29 @@ coverY: 0
 
 # Welcome to Odin Tools
 
-**Odin Tools** is a battle-tested suite of powerful Telegram bots and utilities built for the **Solana blockchain** — already trusted and running strong for **over 8 months**.
+**Odin Tools** is a battle-tested suite of powerful Telegram bots and utilities built for the **Solana blockchain** — already trusted and running strong for **over 1 year**.
 
 Whether you're launching a meme coin, managing volume, or growing a community — Odin Tools gives you everything you need to **build, trade, and promote** your project with confidence.
 
-### 🧰 Utilities in Odin Tools
+At $ODIN, we're committed to creating a project that rewards our community and supports long-term growth. Our revenue share model is designed to ensure that everyone plays a role in the success of the ecosystem while continuously driving innovation and utility development.
 
-### ⚡ Odin Tools Boosts
+
+
+### ⚡ Odin Tools Utilities
 
 Odin Tools offers powerful boosting utilities such as:
 
-* **Volume Bot**
-* **Rank Bot**
-* **Holder Booster**
+* **Protection bot**
+* Trading bot
+* **Raid bot**
 * And more...
 
 These tools help generate attention, simulate real activity, and encourage engagement.
 
-### 🛡 Heimdall — Telegram Group Protector
-
-**Heimdall** protects your Telegram groups from scammers, shillers, and any kind of spam or garbage that might threaten your community. A must-have for any serious project group.
-
-### ⚔️ Freya Raid Bot
-
-Powered by **RaidSharks**, **Freya** is a new and efficient way of running **X (Twitter) raids**.
-
-It offers:
-
-* Organic boosting for tweets (likes, bookmarks, retweets)
-* Instant engagement with 40+ verified accounts
-* A backup boost system when your community can't push a raid on its own
-
-When your community rests, Freya fights.
+Twitter: [https://x.com/odincoinsol](https://x.com/odincoinsol)\
+Website: [https://odin.tools/](https://odin.tools/)\
+Telegram: [https://t.me/odintoolsportal](https://t.me/odintoolsportal)\
+CA: odinyvt9FgWWxw9BwZFjf7Agcch6Pk9mKubszw4izAG
 
 
 
