@@ -5,11 +5,12 @@
 ## Tools
 
 * [🛡Heimdall - Protection bot](tools/heimdall-protection-bot/README.md)
-  * [How to set up](tools/heimdall-protection-bot/how-to-set-up.md)
+  * [Heimdall set up](tools/heimdall-protection-bot/heimdall-set-up.md)
   * [Portal set up](tools/heimdall-protection-bot/portal-set-up.md)
-  * [Follower set up](tools/heimdall-protection-bot/follower-set-up.md)
-  * [Spaces set up](tools/heimdall-protection-bot/spaces-set-up.md)
   * [Add/remove filters](tools/heimdall-protection-bot/add-remove-filters.md)
+  * [Silent mode](tools/heimdall-protection-bot/silent-mode.md)
+  * [Tracking Followers](tools/heimdall-protection-bot/tracking-followers.md)
+  * [Tracking Spaces](tools/heimdall-protection-bot/tracking-spaces.md)
 * [⚡Thor - Trading bot](tools/thor-trading-bot/README.md)
   * [How to start](tools/thor-trading-bot/how-to-start.md)
   * [Auto-buy](tools/thor-trading-bot/auto-buy.md)
@@ -19,7 +20,6 @@
   * [Set up](tools/freya-raid-bot/set-up.md)
   * [How to Raid](tools/freya-raid-bot/how-to-raid.md)
   * [Boost](tools/freya-raid-bot/boost.md)
-* [MultiWallet BuyBot](tools/multiwallet_buybot.md)
 
 ## Holder Benefits
 

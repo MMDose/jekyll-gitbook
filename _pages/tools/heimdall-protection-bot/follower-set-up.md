@@ -1,2 +1,0 @@
-# Follower set up
-
