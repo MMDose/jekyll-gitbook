@@ -1,10 +1,14 @@
+---
+description: Step by step guide how to activate the Heimdall Silent Mode
+---
+
 # Silent mode
 
-#### 🔇 Silent Mode
+#### 🔇 How to activate the Silent Mode
 
 Hide Heimdall notifications in your group.
 
-**Tutorial:**
+Tutorial:
 
 1. `Type /menu in your group.`
 2. `Select "Configure group."`

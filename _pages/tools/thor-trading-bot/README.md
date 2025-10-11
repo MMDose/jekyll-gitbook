@@ -1,6 +1,7 @@
 ---
-cover: ../../.gitbook/assets/Nieuw project.png
-coverY: 0
+description: '@ThorSolana_bot'
+cover: ../../.gitbook/assets/{626B8A13-B8AD-4678-8A90-D376CE22722B}.png
+coverY: 66.32928942807625
 layout:
   width: default
   cover:

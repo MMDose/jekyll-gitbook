@@ -1,7 +1,7 @@
 ---
-description: ⚙️ How to Add Heimdall to Your Telegram Group
-cover: ../../.gitbook/assets/Heimdallllll.jpg
-coverY: 85.05
+description: Step by step Heimdall set-up
+cover: ../../.gitbook/assets/GxrPRnKW4AEeFr_ (1).jpg
+coverY: 250.9703760019938
 layout:
   width: default
   cover:
@@ -21,11 +21,11 @@ layout:
     visible: true
 ---
 
-# Heimdall set up
+# Heimdall set-up
 
-###
+#### ⚙️ How to Add Heimdall to Your Telegram Group
 
-Adding **Heimdall** ( `@heimdall_odintools_bot)` to your Telegram community takes less than a minute. Once active, it automatically protects your group from spam, scams, and malicious users — and connects you to the global Heimdall protection network.
+Adding Heimdall `(@heimdall_odintools_bot)` to your Telegram community takes less than a minute. Once active, it automatically protects your group from spam, scams, and malicious users — and connects you to the global Heimdall protection network.
 
 #### 🪶 Step-by-Step Setup
 
@@ -45,20 +45,14 @@ Adding **Heimdall** ( `@heimdall_odintools_bot)` to your Telegram community take
    That’s it — your group is now part of the **Heimdall Guardian Network**.\
    From this point, any spammer banned anywhere in the network will automatically be banned in your group too.
 
-**Tutorial Video:** [Watch here](https://www.youtube.com/watch?v=r_ipw5Rp7Zc)\
-\
-
+**Tutorial Video:** [Watch here](https://www.youtube.com/watch?v=r_ipw5Rp7Zc)
 
 #### 🛡️ Optional Settings
 
 * `/help` – See all the options
 * `/settings` – View and adjust moderation preferences.
 * `/stats` – See your group’s protection data.
-* &#x20;`/info @username -` View user ID, recent suspicious messages, and status.
-
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+* `/info @username` - View user ID, recent suspicious messages, and status.
 
 ***
 
