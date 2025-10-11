@@ -10,11 +10,17 @@ Thor charges a **0.9% fee per trade**, but loyal users can get up to **50% cashb
 
 **🎖 Cashback Tiers:**
 
-| Tier   | Monthly Volume | Cashback     |
-| ------ | -------------- | ------------ |
-| Bronze | Default        | 0%           |
-| Silver | ≥ $10,000      | 25% Cashback |
-| Gold   | ≥ $1,000,000   | 50% Cashback |
+| Tier        | Required Volume | Cashback Reward |
+| ----------- | --------------- | --------------- |
+| 🥉 Bronze   | Default         | 0%              |
+| 🪙 Silver   | ≥ $10,000       | 20% Cashback    |
+| 🏅 Gold     | ≥ $100,000      | 30% Cashback    |
+| 💎 Diamond  | ≥ $1,000,000    | 40% Cashback    |
+| 👑 Platinum | ≥ $10,000,000   | 50% Cashback    |
+
+Earn higher rewards as your trading volume increases — Thor gives back to its strongest warriors.
+
+***
 
 **🪙 How It Works**
 
@@ -24,7 +30,7 @@ Thor charges a **0.9% fee per trade**, but loyal users can get up to **50% cashb
 
 
 
-We also offer a 5-layer rewards system - THE BEST in the market! 🤑
+We also offer a 5-layer rewards system - THE BEST in the market! 🤑🤑🤑🤑🤑
 
 Here’s how it works:
 
