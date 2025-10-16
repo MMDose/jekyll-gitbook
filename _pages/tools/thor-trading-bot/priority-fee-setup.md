@@ -11,8 +11,7 @@ A priority fee is an additional tip to miners/validators that helps:
 
 **⚙️ How to Set It**
 
-1. Go to settings or use the `/priority` command.
+1. Go to settings and choose if you want to change the buy or sell Priority fees.
 2. Choose a % or set a custom fee value.
-3. Save and apply.
 
 Thor will now include the fee with every trade, giving your transactions an edge.

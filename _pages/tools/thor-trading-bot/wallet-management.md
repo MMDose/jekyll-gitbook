@@ -14,8 +14,10 @@ You can generate **up to 10 wallets** within the bot. Each wallet functions inde
 
 To switch wallets:
 
-1. Use the `/wallets` command or tap the wallet menu.
+1. Use the `/wallet` command or tap the wallet menu.
 2. Select the wallet you want to activate.
+
+<figure><img src="../../.gitbook/assets/wallet.png" alt=""><figcaption></figcaption></figure>
 
 **📤 Export & Withdraw Anytime**
 
