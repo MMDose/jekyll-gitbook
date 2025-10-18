@@ -26,37 +26,37 @@ layout:
 Behold Thor - Son of Odin, Asgard’s fiercest warrior, master of the storm, and protector of realms. Thor - the all-in-one trading powerhouse built for speed, simplicity and massive rewards.\
 Trade Solana smarter, faster, easier.
 
-#### Introduction
+#### [Introduction](./#introduction)
 
 * What is Thor Bot?
 * Key Features
 * Benefits of Using Thor
 
-#### Getting Started
+#### [Getting Started](./#getting-started)
 
 * How to Launch the Bot
 * Funding Your Wallet (Deposit Process)
 * Basic Bot Commands
 
-#### Wallet Management
+#### [Wallet Management](./#wallet-management)
 
 * Creating and Switching Wallets
 * Max Limit (10 Wallets)
 * Exporting & Withdrawing
 
-#### Priority Fee Setup
+#### [Priority Fee Setup](./#priority-fee-setup)
 
 * What is a Priority Fee?
 * Why It Matters
 * How to Configure It
 
-#### AutoBuy Feature
+#### [AutoBuy Feature](./#autobuy-feature)
 
 * What is AutoBuy?
 * How to Enable It
 * Safety Considerations
 
-#### &#x20;Trading Fees & Cashback Tiers & Rewards
+#### &#x20;[Trading Fees & Cashback Tiers & Rewards](./#trading-fees-and-cashback-tiers-and-rewards)
 
 * Standard Fee (0.9%)
 * Cashback Rewards by Tier:
@@ -66,7 +66,16 @@ Trade Solana smarter, faster, easier.
 * How Cashback is Credited
 * Referal Layers
 
-#### &#x20;FAQ
+#### [ FAQ](./#faq)
 
 * Common Issues & Fixes
 * Support Channel Info
+
+
+
+Copy Trade
+
+* Copy Trade instructions
+* Copy Trade Settings
+* Wallet Copy Trade steps
+

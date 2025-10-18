@@ -18,6 +18,7 @@
   * [Priority Fee Setup](tools/thor-trading-bot/priority-fee-setup.md)
   * [🏆 Trading Fees & Cashback Tiers & Rewards](tools/thor-trading-bot/trading-fees-and-cashback-tiers-and-rewards.md)
   * [FAQ](tools/thor-trading-bot/faq.md)
+  * [Copy trade](tools/thor-trading-bot/copy-trade.md)
 * [⚔️Freya - Raid bot](tools/freya-raid-bot/README.md)
   * [Freya Set-up](tools/freya-raid-bot/freya-set-up.md)
   * [How to Raid](tools/freya-raid-bot/how-to-raid.md)
