@@ -1,8 +1,12 @@
 ---
-description: How to set up the auto-buy option in Thor
+description: >-
+  How to set up the auto-buy option in Thor - Buy by forwarding CA, links, or
+  even BuyBot notifications directly to THOR.
 ---
 
 # Auto-buy
+
+<figure><img src="../../.gitbook/assets/autobauy.png" alt="" width="336"><figcaption></figcaption></figure>
 
 Want to buy instantly when you spot a new token? **AutoBuy** makes it possible.
 
@@ -10,7 +14,7 @@ Want to buy instantly when you spot a new token? **AutoBuy** makes it possible.
 
 When enabled, Thor will:
 
-* **Auto-execute a buy** as soon as you send a Contract Address
+* **Auto-execute a buy** as soon as you send or forward a CA (Contract Address), any link, or any kind of message that contains CA (buybot message works as well).&#x20;
 * Skip the confirmation step
 * Use your default wallet, buy amount, and priority fee settings
 
