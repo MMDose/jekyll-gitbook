@@ -1,7 +1,7 @@
 ---
 description: '@ThorSolana_bot'
-cover: ../../.gitbook/assets/{626B8A13-B8AD-4678-8A90-D376CE22722B}.png
-coverY: 66.32928942807625
+cover: ../../.gitbook/assets/2025-10-19 00.19.02.jpg
+coverY: -206.03536838601974
 layout:
   width: default
   cover:
