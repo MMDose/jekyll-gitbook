@@ -7,8 +7,6 @@ icon: bolt-auto
 
 # Auto-buy
 
-<figure><img src="../../.gitbook/assets/autobauy.png" alt="" width="336"><figcaption></figcaption></figure>
-
 Want to buy instantly when you spot a new token? **AutoBuy** makes it possible.
 
 **⚙️ How AutoBuy Works**
@@ -26,3 +24,5 @@ When enabled, Thor will:
 3. Configure your default buy parameters.
 
 **Note:** Use this feature only if you're confident about the CA and your wallet balance.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

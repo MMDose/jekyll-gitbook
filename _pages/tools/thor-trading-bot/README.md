@@ -38,12 +38,6 @@ Trade Solana smarter, faster, easier.
 * Funding Your Wallet (Deposit Process)
 * Basic Bot Commands
 
-#### [Wallet Management](./#wallet-management)
-
-* Creating and Switching Wallets
-* Max Limit (10 Wallets)
-* Exporting & Withdrawing
-
 #### [Priority Fee Setup](./#priority-fee-setup)
 
 * What is a Priority Fee?
@@ -55,6 +49,18 @@ Trade Solana smarter, faster, easier.
 * What is AutoBuy?
 * How to Enable It
 * Safety Considerations
+
+#### [Copy Trade](copy-trade.md)&#x20;
+
+* Copy Trade instructions
+* Copy Trade Settings
+* Wallet Copy Trade steps
+
+#### [Wallet Management](./#wallet-management)
+
+* Creating and Switching Wallets
+* Max Limit (10 Wallets)
+* Exporting & Withdrawing
 
 #### &#x20;[Trading Fees & Cashback Tiers & Rewards](./#trading-fees-and-cashback-tiers-and-rewards)
 
@@ -70,12 +76,4 @@ Trade Solana smarter, faster, easier.
 
 * Common Issues & Fixes
 * Support Channel Info
-
-
-
-Copy Trade
-
-* Copy Trade instructions
-* Copy Trade Settings
-* Wallet Copy Trade steps
 

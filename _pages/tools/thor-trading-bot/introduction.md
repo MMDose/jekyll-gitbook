@@ -1,4 +1,7 @@
 ---
+description: >-
+  Introduction of Thor the ultimate Solana trading bot – fast, simple, and
+  rewarding.
 icon: question
 ---
 
@@ -21,8 +24,17 @@ Built for **speed, simplicity, and rewards**, Thor is the all-in-one bot that le
 
 > Your edge in trading starts **now**.
 
+\
 ➖➖➖\
 🚀 **Start Trading**: @ThorSolana\_bot\
 🌐 Website: [odin.tools](https://odin.tools)\
 🐦 Twitter: [@odincoinsol](https://x.com/odincoinsol)\
-➖➖➖
+➖➖➖\
+\
+**Getting started**\
+You can learn how to use Thor bot from here:
+
+👉🏻 [Quick Start](getting-started-with-thor.md)\
+\
+&#xNAN;**⚠️ Disclaimer**\
+Trading tokens has risks. Do your own research and consider all risks. Thor takes no responsibility for any issues.

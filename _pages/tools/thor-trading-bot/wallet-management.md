@@ -1,4 +1,7 @@
 ---
+description: >-
+  Create wallets, switch instantly, fund separately, export keys, and withdraw
+  anytime. Full non-custodial control for smart trading! 🔄
 icon: wallet
 ---
 
