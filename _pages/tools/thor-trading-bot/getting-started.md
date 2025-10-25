@@ -1,5 +1,6 @@
 ---
 description: Navigate to @ThorSolana_bot and press Start
+icon: flag-checkered
 ---
 
 # Getting started

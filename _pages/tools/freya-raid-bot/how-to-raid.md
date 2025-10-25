@@ -1,5 +1,6 @@
 ---
 description: Step by step guide how to raid with Freya
+icon: swords
 ---
 
 # How to Raid

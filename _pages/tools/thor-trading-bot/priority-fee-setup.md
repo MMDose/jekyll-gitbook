@@ -1,3 +1,7 @@
+---
+icon: gears
+---
+
 # Priority Fee Setup
 
 To stay ahead of competitors in fast-moving markets, Thor supports setting a **priority fee**.

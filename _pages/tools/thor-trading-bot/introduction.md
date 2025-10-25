@@ -1,3 +1,7 @@
+---
+icon: question
+---
+
 # Introduction
 
 ### ⚡️ Meet Thor – The Ultimate Solana Trading Bot ⚡️

@@ -1,3 +1,7 @@
+---
+icon: wallet
+---
+
 # Wallet Management
 
 Thor allows you to operate multiple wallets effortlessly, ideal for multi-strategy trading or asset segregation.

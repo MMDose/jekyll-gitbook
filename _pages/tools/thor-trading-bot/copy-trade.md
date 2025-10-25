@@ -1,5 +1,6 @@
 ---
 description: 'Copy Trade: Mirror smart money, automatically earn SOL！'
+icon: copy
 ---
 
 # Copy trade

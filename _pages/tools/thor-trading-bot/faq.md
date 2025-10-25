@@ -2,6 +2,7 @@
 description: >-
   ❓ FAQ – Frequently Asked Questions - Our support channel:
   https://t.me/thortradingsupport
+icon: circle-question
 ---
 
 # FAQ
