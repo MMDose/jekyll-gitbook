@@ -2,7 +2,7 @@
 description: With Thor we have high Cashback and referral rewards for everyone!
 ---
 
-# Trading Fees & Cashback Tiers & Rewards
+# 🏆 Trading Fees & Cashback Tiers & Rewards
 
 #### 💸 Trading Fee & Cashback Tiers
 

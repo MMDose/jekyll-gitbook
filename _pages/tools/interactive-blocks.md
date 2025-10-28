@@ -6,6 +6,10 @@ icon: sack-dollar
 
 At $ODIN, we're committed to creating a project that rewards our community and supports long-term growth. Our revenue share model is designed to ensure that everyone plays a role in the success of the ecosystem while continuously driving innovation and utility development.
 
+**Top Holders** are also eligible to receive revenue from the Odin Tools Ecosystem. Investors whose holdings rank in the **top 20** can join the exclusive Top Holders Group. These groups receive early updates and insights into marketing strategies, similar to regular VC communications.
+
+
+
 \
 **Revenue Allocation Breakdown**
 

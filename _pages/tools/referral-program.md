@@ -1,5 +1,5 @@
 ---
-icon: server
+icon: people-arrows
 ---
 
 # Referral Program
@@ -12,4 +12,6 @@ Our Base plan is 10% referral bonus.&#x20;
 
 — You can withdraw bonus when it's more then 0.1 SOL.&#x20;
 
-— Higher plans are available for Community Owners, Big Influencers.&#x20;
+— Higher plans are available for Community Owners, Big Influencers. \
+\
+Type `/referral` to see all the information related to referrals and the bonuses.

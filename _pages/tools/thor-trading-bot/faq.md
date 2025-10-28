@@ -44,7 +44,7 @@ Thor supports **up to 10 wallets** per user. To create a new one, you’ll need 
 Go to your bot dashboard or type `/tier` to see:
 
 * Your total trading volume
-* Your current cashback tier (Bronze, Silver, or Gold)
+* Your current cashback tier (Bronze, Silver, Gold, Platinum or Diamond)
 
 ***
 

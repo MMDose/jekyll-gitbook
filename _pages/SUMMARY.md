@@ -17,7 +17,7 @@
   * [Auto-buy](tools/thor-trading-bot/auto-buy.md)
   * [Copy trade](tools/thor-trading-bot/copy-trade.md)
   * [Wallet Management](tools/thor-trading-bot/wallet-management.md)
-  * [Trading Fees & Cashback Tiers & Rewards](tools/thor-trading-bot/trading-fees-and-cashback-tiers-and-rewards.md)
+  * [🏆 Trading Fees & Cashback Tiers & Rewards](tools/thor-trading-bot/trading-fees-and-cashback-tiers-and-rewards.md)
   * [FAQ](tools/thor-trading-bot/faq.md)
 * [⚔️Freya - Raid bot](tools/freya-raid-bot/README.md)
   * [Introduction](tools/freya-raid-bot/introduction.md)
@@ -36,14 +36,6 @@
     * [Trending Highlight](tools/freya-raid-bot/advertising/trending-highlight.md)
     * [Featured Spot](tools/freya-raid-bot/advertising/featured-spot.md)
   * [💰 Credits](tools/freya-raid-bot/credits.md)
-
-## Holder Benefits
-
-* [Revenue Share](holder-benefits/interactive-blocks.md)
-* [Holder Discounts & Subscriptions](holder-benefits/holder-discounts-and-subscriptions.md)
-* [Top Holders](holder-benefits/top-holders.md)
-* [Referral Program ODIN tools](holder-benefits/referral-program-odin-tools.md)
-
-***
-
-* [Odin Tools API Usage Guide for Partners](odin-tools-api-usage-guide-for-partners.md)
+* [Revenue Share](tools/interactive-blocks.md)
+* [Holder Discounts & Subscriptions](tools/holder-discounts-and-subscriptions.md)
+* [Referral Program](tools/referral-program.md)
