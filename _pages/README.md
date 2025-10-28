@@ -2,7 +2,6 @@
 title: Jekyll Gitbook Theme
 permalink: /
 description: Blockchain Utilities for Coin
-icon: user-beard-bolt
 cover: .gitbook/assets/800x250.gif
 coverY: 0
 ---
@@ -19,11 +18,11 @@ At $ODIN, we're committed to creating a project that rewards our community and s
 
 ### ⚡ Odin Tools Utilities
 
-Odin Tools offers powerful boosting utilities such as:
+Odin Tools offers powerful utilities such as:
 
-* **Protection bot**
-* Trading bot
-* **Raid bot**
+* [**Protection bot - Heimdall**](tools/heimdall-protection-bot/)
+* [Trading bot - Thor](tools/thor-trading-bot/)
+* [**Raid bot - Freya**](tools/freya-raid-bot/)
 * And more...
 
 These tools help generate attention, simulate real activity, and encourage engagement.
