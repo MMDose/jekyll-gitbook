@@ -55,7 +55,7 @@ Choose how long the order should stay active by pressing Expiration. Enter expir
 
 You can view all the active limit orders by pressing **/Start** and then press on **Limit Orders. Here you can create or remove any buy/sell orders.**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="455"><figcaption></figcaption></figure>
 
 
 
