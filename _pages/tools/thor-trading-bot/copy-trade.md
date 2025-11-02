@@ -3,7 +3,7 @@ description: 'Copy Trade: Mirror smart money, automatically earn SOL！'
 icon: copy
 ---
 
-# Copy trade
+# Copy Trade
 
 ⚠️ Please note that if you frequently copy the wallet and its transactions, your SOL balance may be consumed quickly. If you don’t have high requirements for copy trade speed, it’s recommended to enable **auto slippage** and set a lower **gas priority fee** (for example, **0.002–0.006 SOL**). Many users make profits from copy trading, but their gas priority fees are too high, causing them to lose money in the end.
 
@@ -63,14 +63,14 @@ One copytrade transaction= buying/selling amount + Gas priority fee + 0.9% Thor 
 
 1\) Create New Copy Task:
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt="" width="485"><figcaption></figcaption></figure>
 
 2\) Enter the wallet address you want to copy trade from
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.png" alt="" width="490"><figcaption></figcaption></figure>
 
 3\) Set up
 
 
 
-<figure><img src="../../.gitbook/assets/2.png" alt="" width="489"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt="" width="326"><figcaption></figcaption></figure>

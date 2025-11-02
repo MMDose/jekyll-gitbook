@@ -23,12 +23,12 @@ A priority fee is an additional tip to miners/validators that helps:
 
 Go to settings and choose if you want to change the buy or sell Priority fees.
 
-<figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 \
 Choose an option or set a custom fee value.\
 
 
-<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Thor will now include the fee with every trade, giving your transactions an edge.

@@ -11,7 +11,7 @@ icon: flag-checkered
 \
 Open Thor @ThorSolana\_bot Bot via the official link or through Telegram. Click on or type in `/start` to run Thor.
 
-<figure><img src="../../.gitbook/assets/{8CBA06C5-96FB-4512-9AC9-EBF01FBF9B75}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{8CBA06C5-96FB-4512-9AC9-EBF01FBF9B75}.png" alt="" width="563"><figcaption></figcaption></figure>
 
 \
 **Step 2: Fund Your Wallet**
@@ -23,7 +23,7 @@ Once you start Thor, it will display your wallet address. To start using it:
     You can view your balance anytime within the bot.\
 
 
-    <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 \
 Thor makes it super flexible to locate the token you want to buy. Here’s how:

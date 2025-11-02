@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# ⚔️Freya - Raid bot
+# ⚔️ Freya - Raid bot
 
 #### Freya Raid Bot – Introduction
 

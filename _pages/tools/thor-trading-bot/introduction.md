@@ -17,10 +17,14 @@ Built for **speed, simplicity, and rewards**, Thor is the all-in-one bot that le
 
 ✅ User-friendly interface\
 ✅ Clean PnL tracking\
-✅ Auto-buy by forwarding messages or sending CAs\
+✅ Auto-buy, Auto-sell by forwarding messages or sending CAs\
+✅ Copy trading\
 ✅ Sell tokens even with 0 SOL balance\
+✅ Stop loss & Take profit\
+✅ Limit order\
+✅ Trailing Stop loss\
 🤑 **5-layer reward system – the best in the market**\
-🛡️ Trailing Stop Loss – coming soon!
+
 
 > Your edge in trading starts **now**.
 
