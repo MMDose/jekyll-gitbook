@@ -7,7 +7,7 @@ icon: trophy
 
 #### 💸 Trading Fee & Cashback Tiers
 
-Thor charges a **0.9% fee per trade**, but loyal users can get up to **50% cashback** based on trading volume.
+Thor charges a **1% fee per trade**, but loyal users can get up to **50% cashback** based on trading volume.
 
 **🎖 Cashback Tiers:**
 
