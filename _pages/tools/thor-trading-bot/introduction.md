@@ -2,7 +2,7 @@
 description: >-
   Introduction of Thor the ultimate Solana trading bot – fast, simple, and
   rewarding.
-icon: question
+icon: circle-info
 ---
 
 # Introduction
