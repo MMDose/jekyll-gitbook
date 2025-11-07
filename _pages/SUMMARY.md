@@ -23,6 +23,7 @@
   * [Trading Fees & Cashback Tiers & Rewards](tools/thor-trading-bot/trading-fees-and-cashback-tiers-and-rewards.md)
   * [FAQ](tools/thor-trading-bot/faq.md)
   * [Security tips](tools/thor-trading-bot/security-tips.md)
+  * [Global Language Support](tools/thor-trading-bot/global-language-support.md)
 * [⚔️ Freya - Raid bot](tools/freya-raid-bot/README.md)
   * [Introduction](tools/freya-raid-bot/introduction.md)
   * [Quickguide](tools/freya-raid-bot/quickguide.md)
