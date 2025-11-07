@@ -44,11 +44,32 @@ Trade Solana smarter, faster, easier.
 * Why It Matters
 * How to Configure It
 
-#### [AutoBuy Feature](./#autobuy-feature)
+#### [Auto-Buy Feature](./#autobuy-feature)
 
 * What is AutoBuy?
 * How to Enable It
 * Safety Considerations
+
+#### [Auto-Sell Feature](./#autobuy-feature)
+
+* What is Auto-sell?
+* How to Enable It
+* Take Profit
+* Stop-loss
+
+#### [Limit Order](limit-order.md)
+
+* What is Limit Order?
+* How to set It up
+* Trigger options
+* Manage orders
+
+#### [Trailling Stop-Loss](trailing-stop-loss.md)
+
+* What is Trailing Stop-Loss?
+* How to set It up
+* Trigger options
+* Properties
 
 #### [Copy Trade](copy-trade.md)&#x20;
 
@@ -64,16 +85,19 @@ Trade Solana smarter, faster, easier.
 
 #### &#x20;[Trading Fees & Cashback Tiers & Rewards](./#trading-fees-and-cashback-tiers-and-rewards)
 
-* Standard Fee (0.9%)
-* Cashback Rewards by Tier:
-  * Bronze (Default)
-  * Silver (≥ $10K Volume)
-  * Gold (≥ $1M Volume)
+* Standard Fee (1%)
+* Cashback Rewards by Tier
 * How Cashback is Credited
-* Referal Layers
+* Referral Layers
 
 #### [ FAQ](./#faq)
 
 * Common Issues & Fixes
 * Support Channel Info
 
+#### [ Security Tips](security-tips.md)
+
+* Common Scams
+* How to protect your wallets
+* Device safety
+* How to act if you are hacked

@@ -2,7 +2,7 @@
 icon: ban
 ---
 
-# Trailing Stop Loss
+# Trailing Stop-Loss
 
 ### 1. How Trailing Stop-Loss Works
 
@@ -42,13 +42,14 @@ That means your trade exits in profit — automatically. ⚔️
 
 ***
 
-### 3. Trailing Stop-Loss vs. Trailing Take-Profit
+### 3. Trailing Stop-Loss Properties
 
-| Feature           | **Trailing Stop-Loss**                 | **Trailing Take-Profit**             |
-| ----------------- | -------------------------------------- | ------------------------------------ |
-| **Goal**          | Limit downside, secure profit floor    | Extend profit potential              |
-| **Trigger Price** | None (starts immediately)              | Starts after reaching your TP target |
-| **Use Case**      | Protect your capital in volatile moves | Ride pumps for maximum upside        |
+| Feature           | **Trailing Stop-Loss**                 |   |
+| ----------------- | -------------------------------------- | - |
+| **Goal**          | Limit downside, secure profit floor    |   |
+| **Trigger Price** | None (starts immediately)              |   |
+| **Use Case**      | Protect your capital in volatile moves |   |
+|                   |                                        |   |
 
 ***
 
