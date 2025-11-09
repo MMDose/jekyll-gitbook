@@ -23,6 +23,8 @@ Built for **speed, simplicity, and rewards**, Thor is the all-in-one bot that le
 ✅ Stop loss & Take profit\
 ✅ Limit order\
 ✅ Trailing Stop loss\
+✅ Security\
+\
 🤑 **5-layer reward system – the best in the market**\
 
 

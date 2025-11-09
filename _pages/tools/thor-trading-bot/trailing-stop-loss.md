@@ -14,7 +14,13 @@ It automatically **moves upward as the token price rises**, locking in gains and
 You set:
 
 * Take Profit: **+200%**
-* Stop Loss: **-40%**
+* Stop Loss: **-40%**\
+  \
+  Tutorial:\
+  ![](<../../.gitbook/assets/image (20) (1).png>)\
+  ![](<../../.gitbook/assets/image (21).png>)\
+  ![](<../../.gitbook/assets/image (22).png>)\
+  ![](../../.gitbook/assets/{3D7610B4-4AB1-4D08-A178-053E391C239C}.png)
 
 If the token pumps +190% and then dips:
 

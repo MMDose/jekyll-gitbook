@@ -101,3 +101,8 @@ Trade Solana smarter, faster, easier.
 * How to protect your wallets
 * Device safety
 * How to act if you are hacked
+
+#### [Global Language Support](./#global-language-support)
+
+* Available languages
+* How to select a language&#x20;
