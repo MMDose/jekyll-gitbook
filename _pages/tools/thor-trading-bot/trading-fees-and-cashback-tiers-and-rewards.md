@@ -41,6 +41,12 @@ Earn higher rewards as your trading volume increases — Thor gives back to its 
 * **Layer 4: 2%**
 * **Layer 5: 1%**
 
+
+
+**Private Referral Links**\
+Referral links now use a random hash instead of your username or user ID —\
+providing stronger privacy for all users.
+
 Type <kbd>/REFERRAL</kbd>to create a referral link and share it with your network.\
 On this page, you can view your personal referral link and all available options.\
 It will display all the data about people who joined through your personal link,  including those who joined through them, up to 5 levels deep.\
