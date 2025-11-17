@@ -56,6 +56,14 @@ Adding Heimdall `(@heimdall_odintools_bot)` to your Telegram community takes les
 
 ***
 
+#### See the full list of Heimdall commands:
+
+
+
+<figure><img src="../../.gitbook/assets/Heimdall.png" alt="" width="458"><figcaption></figcaption></figure>
+
+
+
 #### 💡 Pro Tip
 
 Adding Heimdall early to your community helps prevent infiltration before your project grows. Every new group strengthens the overall shield — so when you protect your chat, you help protect thousands of others.

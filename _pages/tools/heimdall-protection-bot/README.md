@@ -21,10 +21,10 @@ This shared defense means every new community that installs Heimdall instantly b
 
 #### 📊 Global Statistics (Live Example)
 
-* 👥 **Users Banned:** 900,425
-* 🔒 **Permanently Banned:** 57,021
-* 🤫 **Users Muted:** 429,703
-* 🏰 **Protected Groups:** 19,572
+* 👥 **Users Banned:** 1236127
+* 🔒 **Permanently Banned:** 62952
+* 🤫 **Users Muted:** 454761
+* 🏰 **Protected Groups:** 22826
 
 These numbers update continuously as Heimdall identifies and neutralizes new threats.
 
