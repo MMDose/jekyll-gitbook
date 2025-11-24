@@ -20,8 +20,7 @@ Once you start Thor, it will display your wallet address. To start using it:
 
 * **Send SOL** to this address.
 *   As soon as the deposit is confirmed on-chain, you'll be ready to trade.\
-    You can view your balance anytime within the bot.\
-
+    You can view your balance anytime within the bot.<br>
 
     <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -60,4 +59,8 @@ You can now **use USD value ($)** as your buy quote. Customize your buy buttons 
 **💎 Streamlined Stablecoin Display**\
 Stablecoins like **USDT and USDC** are now shown in a **short, clear format** for better readability:
 
-> Example: **1000 USDT (1000 $)** — with quick access to **Sell**, **Buy**, and **Transfer** options.
+> Example: **1000 USDT (1000 $)** — with quick access to **Sell**, **Buy**, and **Transfer** options.&#x20;
+
+{% hint style="info" %}
+Buy & Sell Tutorial: [https://youtube.com/shorts/3Z3tQg9hoaY](https://youtube.com/shorts/3Z3tQg9hoaY)
+{% endhint %}
