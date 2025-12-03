@@ -61,3 +61,7 @@ That means your trade exits in profit — automatically. ⚔️
 
 **Pro Tip:**\
 Pair Thor’s **Trailing Stop-Loss** with **Auto Sell** to automate your exits — no more staring at charts or missing tops.
+
+{% hint style="info" %}
+Trailing Stop-Loss Setup Tutorial: [https://youtube.com/shorts/Z-GTnAjdH1I](https://youtube.com/shorts/Z-GTnAjdH1I)
+{% endhint %}
