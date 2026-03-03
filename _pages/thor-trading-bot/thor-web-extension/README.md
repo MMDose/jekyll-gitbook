@@ -4,7 +4,7 @@ icon: chrome
 
 # Thor - Web Extension
 
-<figure><img src="../../.gitbook/assets/unnamed.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Website.png" alt=""><figcaption></figcaption></figure>
 
 #### How It Works
 
