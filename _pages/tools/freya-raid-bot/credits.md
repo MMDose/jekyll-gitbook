@@ -29,4 +29,4 @@ For more details on each feature and how to use them, please follow the links ab
 3. After purchase, Use the "Donate Credits to Group" Button within the Wizard
 4. Select Group and choose amount to be send.
 
-\
+<br>

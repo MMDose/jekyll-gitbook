@@ -5,7 +5,7 @@ description: >-
 icon: bolt-auto
 ---
 
-# Auto-Sell (TakeProfit/StopLoss)
+# Auto-Sell (Take Profit/Stop-Loss)
 
 ## ⚡Auto Sell — Take Profit & Stop Loss
 
@@ -22,20 +22,17 @@ You can set multiple take-profit (TP) and stop-loss (SL) levels, or create preci
 * **Stop Loss (SL):** Automatically sells when price drops to your chosen threshold.\
   &#xNAN;_&#x45;xample: -30% means your bag is protected if price falls 30%._
 
-**Setup by using Auto Sell steps (pre set up):**\
-
+**Setup by using Auto Sell steps (pre set up):**<br>
 
 1. Go to **Trading Settings** and enable **Auto Sell.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="344"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="344"><figcaption></figcaption></figure></div>
 
-2\.  Create TP/SL rules.\
-
+2\.  Create TP/SL rules.<br>
 
 * Use negative % for stop loss (-50%), positive % for take profit (+50%).\
   \
-  ![](<../../.gitbook/assets/image (15).png>)\
-
+  ![](<../../.gitbook/assets/image (15).png>)<br>
 * Total TP percentages should equal 100% of your position.
 * Optional: adjust **slippage** and enable **Sell-protection** in settings.
 

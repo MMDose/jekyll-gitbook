@@ -1,27 +1,11 @@
 ---
 description: '@Freya_raid_bot'
+icon: tornado
 cover: ../../.gitbook/assets/freya.jpg
 coverY: 337.29999999999995
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# ⚔️ Freya - Raid bot
+# Freya - Raid bot
 
 #### Freya Raid Bot – Introduction
 
@@ -35,4 +19,4 @@ layout:
 * **Verification**: Simple DM-based Twitter account check – no authorization needed.
 * **Extras**: Auto-mute chats, live stats, repost limits (`/setrepostcount`), and tweet suggestion finder (`/togglefinder`).
 
-Freya is free, user-friendly, and perfect for crypto communities. Verify and join raids easily.\
+Freya is free, user-friendly, and perfect for crypto communities. Verify and join raids easily.<br>

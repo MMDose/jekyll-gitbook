@@ -50,12 +50,11 @@ That means your trade exits in profit — automatically. ⚔️
 
 ### 3. Trailing Stop-Loss Properties
 
-| Feature           | **Trailing Stop-Loss**                 |   |
-| ----------------- | -------------------------------------- | - |
-| **Goal**          | Limit downside, secure profit floor    |   |
-| **Trigger Price** | None (starts immediately)              |   |
-| **Use Case**      | Protect your capital in volatile moves |   |
-|                   |                                        |   |
+| Feature       | Trailing Stop-Loss                       |
+| ------------- | ---------------------------------------- |
+| Goal          | Limit downside, secure profit floor      |
+| Trigger Price | None (starts immediately)                |
+| Use Case      | Protect your capital in volatile markets |
 
 ***
 

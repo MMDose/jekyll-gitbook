@@ -21,7 +21,7 @@ At $ODIN, we're committed to creating a project that rewards our community and s
 Odin Tools offers powerful utilities such as:
 
 * [**Protection bot - Heimdall**](tools/heimdall-protection-bot/)
-* [Trading bot - Thor](tools/thor-trading-bot/)
+* [Trading bot - Thor](thor-trading-bot/thor-telegram-bot/)
 * [**Raid bot - Freya**](tools/freya-raid-bot/)
 * And more...
 

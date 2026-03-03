@@ -26,19 +26,14 @@ One copytrade transaction= buying/selling amount + Gas priority fee + 0.9% Thor 
 
 
 
-1. **Single copy buying method**\
-
+1. **Single copy buying method**<br>
    * **Fixed buy** : Regardless of the purchase amount of the copy address, purchase is made according to the fixed purchase quantity
-   * **Maximum follow-buy** : If the purchase amount of the copy address is less than the set maximum purchase amount, the purchase amount will be based on the purchase amount of the copy address. If the purchase amount of the copy address exceeds the set maximum purchase amount, the purchase will be based on the set maximum volume.\
-
-2. **Selling method**\
-
+   * **Maximum follow-buy** : If the purchase amount of the copy address is less than the set maximum purchase amount, the purchase amount will be based on the purchase amount of the copy address. If the purchase amount of the copy address exceeds the set maximum purchase amount, the purchase will be based on the set maximum volume.<br>
+2. **Selling method**<br>
    * **Automatic follow-up selling:** When the copy address sells coins, it will be sold in proportion to the proportion of its position (only the tokens bought by the copy trade will be sold).\
      For example: the user chooses to copy address A. When address A sells 10% of its own position, the user's follow-up buy will be sold in proportion to 10% (the user's own bought coins or the coins bought by other copy addresses will not be sold)
-   * **No follow-up selling:** The system does not automatically sell coins, you need to sell manually\
-
-3. **Set copy trading parameters**: Priority fee, Slippage\
-
+   * **No follow-up selling:** The system does not automatically sell coins, you need to sell manually<br>
+3. **Set copy trading parameters**: Priority fee, Slippage<br>
 4. **Advanced copy order settings:**
 
 **Market Cap limit:** You can set the market cap limit when buying tokens
@@ -49,8 +44,7 @@ One copytrade transaction= buying/selling amount + Gas priority fee + 0.9% Thor 
 
 
 * **Minimum copy amount:** You can set the minimum copy amount for the target address. Only when the purchase amount of the copy address is greater than the minimum copy amount, the copy purchase will be carried out.
-  * For example, if the minimum copy amount is set to 0.5 SOL, the purchase will be executed only when the target address buys more than or equal to 0.5 SOL.\
-
+  * For example, if the minimum copy amount is set to 0.5 SOL, the purchase will be executed only when the target address buys more than or equal to 0.5 SOL.<br>
 * **Maximum copy amount:** You can set the maximum copy amount for the target address. Only when the purchase amount of the copy address is less than or equal to the maximum copy amount, the copy purchase will be carried out. Prevent the target address to buy large amounts of coins to pull up the price then rug pull
   * For example, if the maximum copy amount is set to 10 SOL, when the target address purchase is greater than 10 SOL, no purchase will be made
 

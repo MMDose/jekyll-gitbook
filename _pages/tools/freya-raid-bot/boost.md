@@ -81,10 +81,8 @@ You can buy credits by utilizing the [/credits](https://docs.raidsharksbot.com/q
 
 ####
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
+<br>

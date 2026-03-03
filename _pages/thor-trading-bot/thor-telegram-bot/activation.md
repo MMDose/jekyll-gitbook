@@ -1,17 +1,14 @@
 ---
-description: >-
-  Step-by-step guide to launch the bot, fund your wallet, and easily find tokens
-  to trade. Quick and simple setup for instant trading!
 icon: flag-checkered
 ---
 
-# Getting started with Thor
+# Activation
 
 **Step 1: Launch the Bot**\
 \
 Open Thor @ThorSolana\_bot Bot via the official link or through Telegram. Click on or type in `/start` to run Thor.
 
-<figure><img src="../../.gitbook/assets/{8CBA06C5-96FB-4512-9AC9-EBF01FBF9B75}.png" alt="" width="563"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/{8CBA06C5-96FB-4512-9AC9-EBF01FBF9B75}.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 \
 **Step 2: Fund Your Wallet**
@@ -19,12 +16,11 @@ Open Thor @ThorSolana\_bot Bot via the official link or through Telegram. Click 
 Once you start Thor, it will display your wallet address. To start using it:
 
 * **Send SOL** to this address.
-*   As soon as the deposit is confirmed on-chain, you'll be ready to trade.\
-    You can view your balance anytime within the bot.<br>
+* As soon as the deposit is confirmed on-chain, you'll be ready to trade.\
+  You can view your balance anytime within the bot.
 
-    <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/image (19).png" alt="" width="396"><figcaption></figcaption></figure></div>
 
-\
 Thor makes it super flexible to locate the token you want to buy. Here’s how:
 
 **Send a Contract Address (CA)**\
@@ -61,6 +57,4 @@ Stablecoins like **USDT and USDC** are now shown in a **short, clear format** fo
 
 > Example: **1000 USDT (1000 $)** — with quick access to **Sell**, **Buy**, and **Transfer** options.&#x20;
 
-{% hint style="info" %}
-Buy & Sell Tutorial: [https://youtube.com/shorts/3Z3tQg9hoaY](https://youtube.com/shorts/3Z3tQg9hoaY)
-{% endhint %}
+{% embed url="https://youtube.com/shorts/3Z3tQg9hoaY" %}

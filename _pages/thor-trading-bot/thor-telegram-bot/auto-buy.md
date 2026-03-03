@@ -25,4 +25,4 @@ When enabled, Thor will:
 
 **Note:** Use this feature only if you're confident about the CA and your wallet balance.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="328"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="328"><figcaption></figcaption></figure>

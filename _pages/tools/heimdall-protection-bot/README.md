@@ -1,58 +1,47 @@
 ---
 description: '@heimdall_odintools_bot'
+icon: shield-check
 ---
 
-# 🛡️ Heimdall - Protection bot
+# Heimdall - Protection bot
 
+***
 
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+Heimdall is a powerful Telegram group management bot designed for crypto communities. It provides comprehensive moderation tools, anti-spam protection, portal verification, custom filters, and integration with various crypto services.
 
-### 🛡️ Heimdall — Global Guardian of Telegram
+***
 
-**Heimdall** is Odin Tools’ Telegram protection system — designed to keep communities safe from scams, spam, and malicious users.
+### **Anti-Spam Protection**
 
-#### 🌍 Global Protection Network
+Automatic detection and removal of spam messages, fake admins, scammers, and prohibited content. Includes OCR-based text extraction from images and videos to detect spam hidden in media.
 
-Heimdall is active in **19,000+ Telegram groups**, forming a connected defense layer across the ecosystem.\
-When a user is banned in one Heimdall-protected group, the system automatically recognizes them as a threat and **bans them globally** across all other connected groups.
+### Portal verification
 
-This shared defense means every new community that installs Heimdall instantly benefits from the protection and experience of thousands of others.
+Secure entry system requiring users to verify through a web portal before joining groups. Collects device fingerprints to detect alt accounts of banned users.
 
-#### 📊 Global Statistics (Live Example)
+### **Custom Filters**
 
-* 👥 **Users Banned:** 1236127
-* 🔒 **Permanently Banned:** 62952
-* 🤫 **Users Muted:** 454761
-* 🏰 **Protected Groups:** 22826
+Create automatic responses to keywords or phrases. Supports single words and multi-word phrases in quotes.
 
-These numbers update continuously as Heimdall identifies and neutralizes new threats.
+### **Crypto Integration**
 
-#### ⚙️ What Heimdall Does
+Track token prices, market caps, holders. Integration with DexScreener, PumpFun, and various buy bots. Supports Solana, Ethereum, TON, and BSC tokens.
 
-* **Auto-Detection:** Instantly detects spam, scam links, and bot behavior.
-* **Global Ban Sync:** One ban = banned everywhere. Protects all groups instantly.
-* **Mute & Timeout System:** Suspicious accounts can be temporarily restricted.
-* **Zero Maintenance:** Once added to your group, Heimdall manages protection automatically.
+### **Automatic Whitelisting**
 
-#### 🚀 Why It Matters
+Users are automatically whitelisted after sending 10 safe (non-spam) messages, exempting them from further anti-spam checks without admin intervention.
 
-Managing a Telegram community in crypto is tough — scams, airdrop bots, and fake accounts appear every day. Heimdall turns scattered groups into a **unified security network**, stopping bad actors before they can spread.
+### **Image & Video Text Detection**
 
-> Heimdall doesn’t just guard your group — he guards **every group**.
+Uses OCR technology to extract and scan text from images, videos, GIFs, and documents for spam content - catching scammers who hide messages in media.
 
+### **Whales Mode**
 
+Restrict chat to verified token holders based on minimum holding requirements. Users verify by connecting their wallet on-chain.
 
-#### 👤 User Check
+### **Referral Contests**
 
-View user ID, recent suspicious messages, and status.
+Create and manage referral competitions with automatic tracking and leaderboards. Each user gets a unique invitation link to share.
 
-**Tutorial:** `Type /info @username in your group.`\
-\
-\
-
-
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
-
-\
-To explore more Heimdall features, type /menu in your group. Click Help for additional commands.

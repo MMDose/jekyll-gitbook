@@ -35,7 +35,6 @@ Best practice is to combine it with an Text Ad in the same day slot.
 
 ### &#x20; <a href="#pricing-and-duration" id="pricing-and-duration"></a>
 
-\
+<br>
 
-
-\
+<br>
