@@ -1,15 +1,8 @@
 ---
 title: Jekyll Gitbook Theme
 permalink: /
-description: Blockchain Utilities for Coin
-cover: .gitbook/assets/tools.png
-coverY: 0
-coverHeight: 685
 layout:
   width: default
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -28,22 +21,25 @@ layout:
 
 # Welcome to Odin Tools
 
-**Odin Tools** is a battle-tested suite of powerful Telegram bots and utilities built for the **Solana blockchain** — already trusted and running strong for **over 1 year**.
+<div align="center"><figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-Whether you're launching a meme coin, managing volume, or growing a community — Odin Tools gives you everything you need to **build, trade, and promote** your project with confidence.
+Odin Tools is a suite of professional Telegram bots built on the Solana network. Our infrastructure has been operating reliably for over one year, supporting projects and communities across the ecosystem.
 
-At $ODIN, we're committed to creating a project that rewards our community and supports long-term growth. Our revenue share model is designed to ensure that everyone plays a role in the success of the ecosystem while continuously driving innovation and utility development.
+Our focus is to deliver secure, efficient, and easy-to-use utilities that support teams, traders, and Web3 builders in their daily operations - providing the tools required to manage, protect, and operate with confidence while creating long-term value.
 
+***
 
+## Ecosystem
 
-### ⚡ Odin Tools Utilities
+Odin Tools is powered by the $ODIN ecosystem. We are committed to sustainable growth, continuous development, and long-term alignment with our community.
+
+Our revenue share model supports ongoing innovation while ensuring that the ecosystem grows stronger over time.
+
+***
+
+### Odin Tools Utilities
 
 Odin Tools offers powerful utilities such as:
 
 * [**Protection bot - Heimdall**](tools/heimdall-protection-bot/)
 * [Trading bot - Thor](thor-trading-bot/thor-telegram-bot/)
-
-
-
-
-

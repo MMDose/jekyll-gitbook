@@ -4,9 +4,7 @@ icon: crosshairs-simple
 
 # Thor - Sniper
 
-## Thor - Sniper
-
-**Thor - Sniper** is a high-speed tool that buys tokens instantly across **X**, **Telegram**, **Discord**, and **WhatsApp**. The moment a token contract appears in a chat, Thor executes the purchase in milliseconds, giving you a clear advantage in fast-moving markets.
+The **Thor - Sniper** is a high-speed tool that buys tokens instantly across **X**, **Telegram**, **Discord**, and **WhatsApp**. The moment a token contract appears in a chat, Thor executes the purchase in milliseconds, giving you a clear advantage in fast-moving markets.
 
 Suitable for launches, call groups, DMs, and private communities, Thor is designed to act faster than anyone else, ensuring you never miss an opportunity.
 
