@@ -9,7 +9,7 @@ layout:
   width: default
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -42,15 +42,6 @@ Odin Tools offers powerful utilities such as:
 
 * [**Protection bot - Heimdall**](tools/heimdall-protection-bot/)
 * [Trading bot - Thor](thor-trading-bot/thor-telegram-bot/)
-* [**Raid bot - Freya**](tools/freya-raid-bot/)
-* And more...
-
-These tools help generate attention, simulate real activity, and encourage engagement.
-
-Twitter: [https://x.com/odincoinsol](https://x.com/odincoinsol)\
-Website: [https://odin.tools/](https://odin.tools/)\
-Telegram: [https://t.me/odintoolsportal](https://t.me/odintoolsportal)\
-CA: odinyvt9FgWWxw9BwZFjf7Agcch6Pk9mKubszw4izAG
 
 
 
