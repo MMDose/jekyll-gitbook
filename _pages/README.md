@@ -2,8 +2,28 @@
 title: Jekyll Gitbook Theme
 permalink: /
 description: Blockchain Utilities for Coin
-cover: .gitbook/assets/800x250.gif
+cover: .gitbook/assets/tools.png
 coverY: 0
+coverHeight: 685
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Welcome to Odin Tools
