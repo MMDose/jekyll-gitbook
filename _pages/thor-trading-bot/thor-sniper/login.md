@@ -18,4 +18,4 @@ After you have installed Thor Sniper, it will open automatically. To start using
 **Note** You may need to click the Telegram link more than once to receive your code. Alternatively, you can click **Get Code** directly inside the Desktop App. This code is required to securely connect Thor Sniper to your account.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/{D762B29D-53E2-4C61-B480-AF686A052129}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
