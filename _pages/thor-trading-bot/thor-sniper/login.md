@@ -15,7 +15,7 @@ After you have installed Thor Sniper, it will open automatically. To start using
 2. Copy the login code from the Telegram message, paste it into the Thor Web Extension, and click Verify.
 
 {% hint style="info" %}
-**Note** You may need to click the Telegram link more than once to receive your code. Alternatively, you can click **Get Code** directly inside the Desktop App. This code is required to securely connect Thor Sniper to your account.
+**Note: Y**ou can click **Get Code** directly inside the Desktop App. This code is required to securely connect Thor Sniper to your account.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
