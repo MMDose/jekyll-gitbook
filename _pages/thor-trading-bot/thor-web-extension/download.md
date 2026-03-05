@@ -16,7 +16,7 @@ Thor will never request private keys, wallet access, or transaction approvals. T
 
 ***
 
-You can download the Thor Extension either from the Chrome Web Store or as a .zip file directly from our [website](https://odin.tools/thor/extension) linked below.
+You can download the Thor Extension either from the Chrome Web Store or as a .zip file directly from our [website](https://odin.tools/thor) linked below.
 
 {% embed url="https://odin.tools/thor/extension" %}
 
