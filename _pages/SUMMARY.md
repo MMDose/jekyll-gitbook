@@ -48,4 +48,3 @@
   * [Whales Mode](tools/heimdall-protection-bot/whales-mode.md)
   * [Welcome Messages](tools/heimdall-protection-bot/welcome-messages.md)
   * [Other Features](tools/heimdall-protection-bot/other-features.md)
-* [Revenue Share](tools/interactive-blocks.md)
