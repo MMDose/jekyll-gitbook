@@ -1,5 +1,5 @@
 ---
-description: '@ThorSolana_bot'
+description: 'Official Telegram Tag: @ThorSolana_bot'
 icon: telegram
 ---
 
@@ -29,7 +29,7 @@ Whether you are an experienced trader or just getting started, Thor delivers the
 
 ***
 
-**Telegram Bot:** https://t.me/ThorSolana\_bot\
+**Telegram Bot:** [Thor Trading Bot](https://t.me/ThorSolana_bot?start=r-gitbook)\
 **Website:** [https://odin.tools](https://odin.tools)\
 **Twitter/X:** [https://twitter.com/odincoinsol](https://twitter.com/odincoinsol)
 

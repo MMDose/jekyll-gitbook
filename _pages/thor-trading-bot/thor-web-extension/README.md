@@ -38,6 +38,4 @@ Thor enhances your current terminal without replacing it, offering quicker execu
 * Create limit orders with triggers like percentage, market cap, or price.
 * Add trailing stops for automated protection.
 
-\
-\
-<br>
+{% embed url="https://youtu.be/7Q_gjHMgkwQ" %}

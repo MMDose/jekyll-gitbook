@@ -7,7 +7,7 @@ icon: shield-check
 
 ***
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Heimdall is a powerful Telegram group management bot designed for crypto communities. It provides comprehensive moderation tools, anti-spam protection, portal verification, custom filters, and integration with various crypto services.
 

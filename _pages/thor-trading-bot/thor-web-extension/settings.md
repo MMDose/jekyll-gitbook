@@ -26,6 +26,8 @@ You can also define your slippage and priority for buy and sell actions.
 
 For Sell presets, select predefined percentages such as 10%, 20%, 35%, 50%, or 100%.
 
+{% embed url="https://youtu.be/5_sW3ewXpkI" %}
+
 ***
 
 ### Site Preferences&#x20;

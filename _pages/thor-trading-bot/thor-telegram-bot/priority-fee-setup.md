@@ -1,35 +1,38 @@
 ---
-description: >-
-  Step-by-step to set priority fees in Thor: Speed up trades, beat competitors
-  in markets, and get confirmations fast. Choose options or custom value for an
-  instant edge!
 icon: gears
 ---
 
 # Priority Fee Setup
 
-To stay ahead of competitors in fast-moving markets, Thor supports setting a **priority fee**.<br>
+### P**riority Fee**
 
-**🧠 What is a Priority Fee?**
+To stay competitive in fast-moving markets, Thor allows you to set a **priority fee** for your transactions.
 
-A priority fee is an additional tip to miners/validators that helps:
+***
 
-* Speed up transaction confirmation
-* Get your trade in before others (especially during high traffic)<br>
+### **What is a Priority Fee?**
 
-**⚙️ How to Set It**
+A priority fee is an additional fee paid to validators that helps your transaction get processed faster. This can be important during periods of high network activity.
 
-Go to settings and choose if you want to change the buy or sell Priority fees.
+With a priority fee, your transaction is more likely to:
 
-<figure><img src="../../.gitbook/assets/image (10) (2).png" alt="" width="563"><figcaption></figcaption></figure>
+* Be confirmed more quickly
+* Be processed before competing transactions
 
-\
-Choose an option or set a custom fee value.<br>
+***
 
-<figure><img src="../../.gitbook/assets/image (11) (2).png" alt="" width="563"><figcaption></figcaption></figure>
+### **How to Set a Priority Fee**
 
-Thor will now include the fee with every trade, giving your transactions an edge.&#x20;
+1. Open **Settings**
 
-{% hint style="info" %}
-Priority Fee Setup Tutorial: [https://youtube.com/shorts/7YYmK1HSmyY?si=Y3-QTC9LSpEz6Zlk](https://youtube.com/shorts/7YYmK1HSmyY?si=Y3-QTC9LSpEz6Zlk)
-{% endhint %}
+<div align="left"><figure><img src="../../.gitbook/assets/image (28).png" alt="" width="395"><figcaption></figcaption></figure></div>
+
+2. Choose whether you want to adjust the **Buy Priority Fee** or **Sell Priority Fee**
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (29).png" alt="" width="392"><figcaption></figcaption></figure></div>
+
+3. Select one of the preset options or enter a **custom fee value**
+
+<div align="left"><figure><img src="../../.gitbook/assets/{55195AC9-09F0-4357-8C15-60F15FE222AA}.png" alt="" width="360"><figcaption></figcaption></figure></div>
+
+Once set, Thor will automatically include the priority fee with your transactions to help ensure faster execution.

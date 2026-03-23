@@ -21,7 +21,7 @@ layout:
 
 # Welcome to Odin Tools
 
-<div align="center"><figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Odin Tools is a suite of professional Telegram bots built on the Solana network. Our infrastructure has been operating reliably for over one year, supporting projects and communities across the ecosystem.
 
@@ -42,4 +42,5 @@ Our revenue share model supports ongoing innovation while ensuring that the ecos
 Odin Tools offers powerful utilities such as:
 
 * [**Protection bot - Heimdall**](tools/heimdall-protection-bot/)
-* [Trading bot - Thor](thor-trading-bot/thor-telegram-bot/)
+* [Trading bot - Thor](https://t.me/ThorSolana_bot?start=r-gitbook)
+* [Raid Bot - Freya ](https://t.me/Freya_raid_bot)

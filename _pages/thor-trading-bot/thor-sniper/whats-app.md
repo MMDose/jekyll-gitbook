@@ -12,9 +12,8 @@ Public launches. Private communities. Early access groups.
 The moment a contract address is shared in a **group**, a **broadcast**, or a **DM**, WhatsApp Sniper detects it and executes automatically within **milliseconds**.
 
 No manual copy-paste.\
-No switching chats.\
 No delay.
 
-WhatsApp Sniper gives you the execution advantage to act before information spreads beyond closed circles. Built for traders who understand: **in this market, timing defines the edge.**
+The Thor Sniper gives you the execution advantage to act before anyone else even reacts. Built for traders who understand: **in this game, speed is everything.**
 
 (Tutorial Video here)

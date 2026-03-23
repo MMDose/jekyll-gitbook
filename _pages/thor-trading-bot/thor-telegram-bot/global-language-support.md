@@ -1,11 +1,10 @@
 ---
-description: >-
-  To make the experience seamless for every trader across the world, Thor now
-  supports 10 languages across the interface and key bot interactions.
 icon: earth-americas
 ---
 
 # Global Language Support
+
+To make the experience seamless for every trader across the world, Thor now supports 10 languages across the interface and key bot interactions.
 
 **Available languages:**\
 🇬🇧 English\
@@ -21,13 +20,14 @@ icon: earth-americas
 
 Switch your preferred language in seconds and trade comfortably with **real-time updates, commands, and insights in your own language** — no translation needed.
 
-Type `/START` and press on LANGUAGE to choose your preferred language for the bot.
+***
 
-<figure><img src="../../.gitbook/assets/l1.png" alt="" width="563"><figcaption></figcaption></figure>
+### Tutorial
 
-Choose on of the current 10 language available by pressing on the one you prefer:
+* Press on LANGUAGE to choose your preferred language for the bot.
 
-\
-![](../../.gitbook/assets/l2.png)
+<div align="left"><figure><img src="../../.gitbook/assets/image (55).png" alt="" width="401"><figcaption></figcaption></figure></div>
 
-This update is part of our ongoing mission to make **Thor the most accessible, trader-first bot in crypto**, connecting Odin Tools users worldwide under one hammer. ⚡️
+* Choose on of the current 10 language available by pressing on the one you prefer:\
+  \
+  ![](../../.gitbook/assets/{4C57E020-737E-40A7-AA38-C40117E15824}.png)

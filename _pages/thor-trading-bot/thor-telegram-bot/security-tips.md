@@ -39,7 +39,20 @@ Airdropped NFTs or “claim” sites can drain your SOL — avoid them.
 
 ***
 
-#### 🔒 Shield Up: Protect Your Wallets
+### ⚠️ **Airdrop Scam Detection**
+
+Thor helps you identify suspicious tokens that appear in your wallet but were not actually purchased.
+
+Tokens flagged as potential scams will show:
+
+* An **Airdrop Scam** warning label
+* No PnL data
+* No average entry price
+* No market capitalization information
+
+***
+
+### 🔒 Shield Up: Protect Your Wallets
 
 **Telegram**
 
@@ -55,7 +68,7 @@ Airdropped NFTs or “claim” sites can drain your SOL — avoid them.
 
 ***
 
-#### 🧩 Device Safety
+### 🧩 Device Safety
 
 * Don’t click unknown links or install shady files
 * Keep system updates current
@@ -64,17 +77,12 @@ Airdropped NFTs or “claim” sites can drain your SOL — avoid them.
 
 ***
 
-#### 🚨 If You’re Hacked
+### 🚨 If You’re Hacked
 
 1. **Act fast** – Move remaining funds to a clean wallet
 2. **Stay calm** – Disconnect the device, preserve evidence
 3. **Trace it** – Identify the hacker’s address, fill [SlowMist recovery form](https://aml.slowmist.com/recovery-funds.html)
 
-***
-
-⚡ **Thor never touches your wallet or private keys.**\
-You control your funds — protect them like your hammer.
-
-***
-
-⚠️ Security comes first with Thor. There are **no backdoors, no hidden permissions, no wallet access**. If your assets are compromised, review the safety steps above — Thor never touches or controls your funds.
+{% hint style="danger" %}
+Security comes first with Thor. There are **no backdoors, no hidden permissions, no wallet access**. If your assets are compromised, review the safety steps above — Thor never touches or controls your funds.
+{% endhint %}

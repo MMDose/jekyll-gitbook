@@ -1,69 +1,79 @@
 ---
-description: >-
-  ❓ FAQ – Frequently Asked Questions - Our support channel:
-  https://t.me/thortradingsupport
 icon: circle-question
 ---
 
 # FAQ
 
-***
+### Thor Trading Bot FAQ – Essential Questions
 
-#### 🔐 Is Thor Bot safe to use?
+#### 🔐 Is Thor Bot safe?
 
-Yes. Thor is a **non-custodial trading bot**, meaning **you own your private keys**. Wallets are generated locally and stored securely. However, **always export and back up your private keys** for safety.
-
-***
-
-#### 💳 What tokens can I trade with Thor?
-
-Thor currently supports **SOL** and compatible tokens. New chains and token support will be added in future updates. We are currently working on the BNB chain.
+Yes. Thor is a non-custodial trading bot, meaning you remain the owner of your private keys. Wallets are securely managed server-side, and private keys can only be accessed through requests made via the bot.
 
 ***
 
-#### 📈 How fast are transactions?
+#### 💳 Which tokens and chains can I trade?
 
-Speed depends on your network congestion and priority fee settings. Setting a **higher priority fee** increases your chances of getting faster confirmations, especially during high-volume launches.
-
-***
-
-#### 🤖 Can I disable AutoBuy?
-
-Yes. Use the `/autobuy` command or go to bot settings to toggle AutoBuy on or off anytime.
+* Currently: **SOL and Solana-compatible tokens**
+* Coming soon: BNB chain and other major networks\
+  Thor is regularly updated to expand token and chain support.
 
 ***
 
-#### 👛 I hit the wallet limit. What should I do?
+#### ⚡ How fast are trades executed?
 
-Thor supports **up to 10 wallets** per user. To create a new one, you’ll need to delete or export an existing wallet first.
-
-***
-
-#### 🧾 Where can I track my trading volume and cashback tier?
-
-Go to your bot dashboard or type `/tier` to see:
-
-* Your total trading volume
-* Your current cashback tier (Bronze, Silver, Gold, Platinum or Diamond)
+Speed depends on **network congestion** and **priority fees**. Setting a higher priority fee improves execution during high-volume launches.
 
 ***
 
-#### 💰 How is cashback paid?
+#### 🛠 Can I manage multiple wallets?
 
-Cashback is calculated monthly based on your total volume. Eligible cashback is automatically sent to your wallet or shown as a balance in the bot.
+Yes. Thor allows **up to 10 wallets per user**, ideal for:
 
-***
-
-#### 🆘 What if I sent funds to the wrong wallet?
-
-Thor is non-custodial and doesn't control wallets. If you sent funds to the wrong address, recovery is not possible. **Always double-check wallet addresses** before sending.
+* Multi-strategy trading
+* Asset segregation
+* Testing different copy trading setups
 
 ***
 
-#### 📞 How can I get support?
+#### 🤖 Can I customize AutoBuy and AutoSell?
 
-If you need help:
+* **AutoBuy** and **AutoSell** can be toggled on/off anytime.
+* You can set **trade limits, risk filters, and token preferences** for safer automation.
 
-* Use the `/help` command in the bot
-* Join the official **Thor Bot Support Telegram Group (**@thortradingsupport)
-* Contact an admin from the bot interface
+***
+
+#### 💰 How does cashback work?
+
+* Calculated monthly based on total trading volume
+* Automatically credited to your wallet or bot balance
+* Higher tiers unlock **better cashback rates**
+
+***
+
+#### ⚠️ How can I prevent failed trades?
+
+* Keep enough **SOL for fees**
+* Avoid extremely low priority fees
+* Adjust **slippage and trade size limits**
+* System retries failed trades 1–3 times automatically
+
+***
+
+#### 📈 What is Copy Trading, and how does it work?
+
+* Mirror trades from another wallet automatically
+* Buy/sell actions follow the **percentage settings you choose**
+* Risk filters allow you to limit trade size and token exposure
+
+***
+
+#### 🆘 What if I make a mistake with funds?
+
+Thor is **non-custodial**. If funds are sent to the wrong address, **they cannot be recovered**. Always double-check wallet addresses before sending.
+
+***
+
+#### 📞 How do I get support?
+
+Join the **Support Channel on Telegram** [@thortradingsupport](https://t.me/thortradingsupport)

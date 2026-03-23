@@ -1,15 +1,14 @@
 ---
-description: >-
-  Create wallets, switch instantly, fund separately, export keys, and withdraw
-  anytime. Full non-custodial control for smart trading! 🔄
 icon: wallet
 ---
 
 # Wallet Management
 
-Thor allows you to operate multiple wallets effortlessly, ideal for multi-strategy trading or asset segregation.
+Thor allows you to operate multiple wallets effortlessly, making it ideal for multi-strategy trading, asset segregation, and efficient portfolio management, while maintaining full control and flexibility over each wallet.
 
-**🔢 Maximum Wallets**
+***
+
+### **Maximum Wallets**
 
 You can generate **up to 10 wallets** within the bot. Each wallet functions independently and can be:
 
@@ -17,16 +16,20 @@ You can generate **up to 10 wallets** within the bot. Each wallet functions inde
 * Used to execute trades
 * Switched between instantly
 
-**🔄 Switching Wallets**
+***
+
+### **Switching Wallets**
 
 To switch wallets:
 
 1. Use the `/wallet` command or tap the wallet menu.
 2. Select the wallet you want to activate.
 
-<figure><img src="../../.gitbook/assets/wallet.png" alt="" width="508"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/{EF14EDC6-7B16-462F-A78C-381B74D6E609}.png" alt="" width="404"><figcaption></figcaption></figure></div>
 
-**📤 Export & Withdraw Anytime**
+***
+
+### **Export & Withdraw Anytime**
 
 You're in full control. You can:
 
@@ -34,4 +37,4 @@ You're in full control. You can:
 * **Withdraw funds** to any external wallet
 * Manage your assets without restriction
 
-Thor is non-custodial—**you always own your keys.**
+Thor is non-custodial — **you always own your keys.**

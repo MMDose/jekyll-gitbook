@@ -8,11 +8,15 @@ The **Thor - Sniper** is a high-speed tool that buys tokens instantly across **X
 
 Suitable for launches, call groups, DMs, and private communities, Thor is designed to act faster than anyone else, ensuring you never miss an opportunity.
 
+<div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
 ***
 
 ### How It Works
 
 Thor monitors messages in real-time and automatically buys tokens when they appear. You can adjust settings to control which groups it watches, token priorities, and trading strategies.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -44,3 +48,4 @@ Thor monitors messages in real-time and automatically buys tokens when they appe
 
 Thor is easy to set up, fast, and reliable. Perfect for beginners and advanced traders alike, it ensures speed is always on your side.
 
+<div align="left"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure></div>

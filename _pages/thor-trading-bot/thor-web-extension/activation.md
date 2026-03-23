@@ -36,12 +36,12 @@ Click Verify.
 {% step %}
 The extension refreshes and activates.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="261"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Open a chart and Thor will be ready.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="262"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="262"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
