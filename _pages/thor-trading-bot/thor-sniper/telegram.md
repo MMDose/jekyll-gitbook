@@ -14,6 +14,6 @@ The moment a contract address appears in a **call group**, a **private channel**
 No manual copy-paste.\
 No delay.
 
-The Thor Sniper gives you the execution advantage to act before anyone else even reacts. Built for traders who understand: **in this game, speed is everything.**\
-\
-**(tutorial video here)**
+The Thor Sniper gives you the execution advantage to act before anyone else even reacts. Built for traders who understand: **in this game, speed is everything.**
+
+{% embed url="https://youtu.be/hYrhleXvKwU" %}

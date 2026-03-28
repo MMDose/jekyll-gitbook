@@ -16,7 +16,6 @@ Even the biggest names - like **Donald Trump** with his **Trump Coin -** the mom
 No manual copy-paste.\
 No delay.
 
-The Thor Sniper gives you the execution advantage to act before information spreads beyond communities. Built for traders who understand: **in this game, speed is everything.**<br>
+The Thor Sniper gives you the execution advantage to act before information spreads beyond communities. Built for traders who understand: **in this game, speed is everything.**
 
-(Tutorial video here)
-
+{% embed url="https://youtu.be/xU7qZVFomfk" %}

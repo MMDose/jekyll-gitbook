@@ -16,4 +16,4 @@ No delay.
 
 The Thor Sniper gives you the execution advantage to act before anyone else even reacts. Built for traders who understand: **in this game, speed is everything.**
 
-(Tutorial Video here)
+{% embed url="https://youtu.be/IE_tdCSPjL8" %}

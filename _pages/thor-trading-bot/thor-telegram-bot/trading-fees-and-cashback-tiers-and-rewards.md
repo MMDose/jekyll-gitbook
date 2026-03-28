@@ -12,7 +12,7 @@ Thor charges a **1% fee per trade**, but loyal users can get up to 7&#x35;**% ca
 
 | Tier        | Required Volume | Cashback Reward |
 | ----------- | --------------- | --------------- |
-| 🥉 Bronze   | $0,00+          | 0%              |
+| 🥉 Bronze   | $0,00+          | 10%             |
 | 🥈 Silver   | $100,000+       | 20% Cashback    |
 | 🏅 Gold     | $1,000,000+     | 30% Cashback    |
 | 💎 Diamond  | $5,000,000+     | 40% Cashback    |
