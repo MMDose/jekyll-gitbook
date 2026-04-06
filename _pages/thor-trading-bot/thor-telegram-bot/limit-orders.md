@@ -4,8 +4,6 @@ icon: sort
 
 # Limit Orders
 
-### What are limit orders?&#x20;
-
 Limit orders lets you automatically buy when your target price hits — perfect for catching dips without watching charts all day.
 
 ***
@@ -23,7 +21,7 @@ Limit orders lets you automatically buy when your target price hits — perfect 
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (39).png" alt="" width="400"><figcaption></figcaption></figure></div>
 
-#### Setting Your Trigger Price
+### Setting Your Trigger Price
 
 When creating a **Limit Buy** order, you can tell Thor **when** to buy using any of these formats:
 

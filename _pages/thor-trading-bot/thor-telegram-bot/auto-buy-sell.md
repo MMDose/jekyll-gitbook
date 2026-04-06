@@ -4,9 +4,7 @@ icon: bolt-auto
 
 # Auto-Buy
 
-## **AutoBuy**
-
-AutoBuy enables instant token purchases using your predefined wallet, amount, and fee settings as soon as a new token is detected.
+AutoBuy instantly purchases a token using your predefined wallet, amount, and fee settings — no confirmation required.
 
 ***
 
@@ -39,7 +37,7 @@ Once enabled, AutoBuy will:
 <div align="left"><figure><img src="../../.gitbook/assets/image (33).png" alt="" width="398"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Note: Use this feature only if you are confident about the contract address and your wallet balance.
+Note: Only use AutoBuy if you are certain about the contract address and have sufficient wallet balance.
 {% endhint %}
 
 ***

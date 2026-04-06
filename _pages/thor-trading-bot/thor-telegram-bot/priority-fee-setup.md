@@ -4,8 +4,6 @@ icon: gears
 
 # Priority Fee Setup
 
-### P**riority Fee**
-
 To stay competitive in fast-moving markets, Thor allows you to set a **priority fee** for your transactions.
 
 ***

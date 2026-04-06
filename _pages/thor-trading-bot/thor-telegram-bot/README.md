@@ -7,31 +7,30 @@ icon: telegram
 
 <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Meet Thor — The Ultimate Solana Trading Bot
+### Meet Thor — The Ultimate Solana Trading Bot
 
-Thor, inspired by Asgard’s legendary warrior, is your powerful companion for trading on the Solana blockchain.
-
-Built for speed, simplicity, and performance, Thor provides an all-in-one trading solution designed to help users execute trades smarter, faster, and more efficiently within the Solana ecosystem.
-
-Whether you are an experienced trader or just getting started, Thor delivers the tools needed to stay competitive in a fast-moving market.
+Thor is your all-in-one trading bot for the Solana blockchain, built for speed, simplicity, and performance. Designed to help both beginners and experienced traders execute fast trades in a fast-moving market.
 
 ***
 
 ### Key Features
 
-* Auto Buy / Sell
-* Pro Trader Mode
-* One-Tap Trading
-* Copy Trading
-* Trailing Stop-Loss
-* Nuke All
-* And More
+| Feature                | Description                                     |
+| ---------------------- | ----------------------------------------------- |
+| **Auto Buy / Sell**    | Automate entries and exits without manual input |
+| **Pro Trader Mode**    | Advanced controls for power users               |
+| **One-Tap Trading**    | Execute trades instantly with a single action   |
+| **Copy Trading**       | Mirror top-performing wallets automatically     |
+| **Trailing Stop-Loss** | Lock in profits with dynamic stop management    |
+| **Nuke All**           | Close all positions instantly in one click      |
 
 ***
 
-**Telegram Bot:** [Thor Trading Bot](https://t.me/ThorSolana_bot?start=r-gitbook)\
-**Website:** [https://odin.tools](https://odin.tools)\
-**Twitter/X:** [https://twitter.com/odincoinsol](https://twitter.com/odincoinsol)
+### Links
+
+* **Telegram Bot:** [Thor Trading Bot](https://t.me/ThorSolana_bot)
+* **Website:** [odin.tools](https://odin.tools)
+* **Twitter/X:** [@odincoinsol](https://twitter.com/odincoinsol)
 
 ***
 
