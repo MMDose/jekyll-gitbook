@@ -12,7 +12,6 @@
   * [Pro Trader Mode](thor-trading-bot/thor-telegram-bot/pro-trader-mode.md)
   * [Auto-Buy](thor-trading-bot/thor-telegram-bot/auto-buy-sell.md)
   * [Auto-Sell](thor-trading-bot/thor-telegram-bot/auto-sell.md)
-  * [Auto-Sell](thor-trading-bot/thor-telegram-bot/auto-sell-1.md)
   * [Limit Orders](thor-trading-bot/thor-telegram-bot/limit-orders.md)
   * [Trailing Stop-Loss](thor-trading-bot/thor-telegram-bot/trailing-stop-loss.md)
   * [Copy Trade](thor-trading-bot/thor-telegram-bot/copy-trade.md)
