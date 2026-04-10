@@ -25,7 +25,7 @@ To switch wallets:
 1. Use the `/wallet` command or tap the wallet menu.
 2. Select the wallet you want to activate.
 
-<div align="left"><figure><img src="../../.gitbook/assets/{EF14EDC6-7B16-462F-A78C-381B74D6E609}.png" alt="" width="404"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/{B7957FDB-3AEE-4E40-8823-4EC0A5A7C945}.png" alt="" width="396"><figcaption></figcaption></figure></div>
 
 ***
 

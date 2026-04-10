@@ -16,36 +16,27 @@ Set one or multiple TP and SL levels and Thor handles the rest. You can also cho
 
 ***
 
-### **Auto-Sell Modes – explained simply**
+### **Three Target Types**
 
-**Key rule for DCA & Position Mode**
+Take Profit – Sells when price goes up by your set percentage. +100% = sells when it doubles.
 
-Your sell % values must add up to exactly **100%**. Why? Because the coin amounts are calculated at the time of your buy.
+Stop Loss – Sells when price drops by your set percentage. -30% = sells if it drops 30%.
 
-Example: You buy 1,000 coins and set 10 orders at 50% each → Order 1 sells 500, Order 2 sells the remaining 500. Done.
+Trailing Stop – A stop loss that moves up with the price but never back down. Rides the pump, sells on the pullback. Instead of cashing out at 2x with a fixed TP, a trailing stop could catch 4x, 10x, or more.
 
-Correct split:
+***
 
-* TP 50% → 500 coins
-* TP 25% → 250 coins
-* TP 10% → 100 coins
-* TP 5% → 50 coins
-* TP 5% → 50 coins
-* **= 100% ✓**
+### **Two Sell Modes**
 
-### **The 3 Sell modes**
+**Full Balance** – Treats your whole bag as one position. If you buy more, the sell amount adjusts automatically. Simple: "sell X% of everything I hold."
 
-**By Position** _(Default)_ Every buy gets its own sell order. Each order only sells the tokens from that specific buy — nothing more.
+**Per Position** – Each buy lives on its own. Buy #1 and Buy #2 get separate sell orders that don't affect each other. More control, especially if you get tokens from airdrops or other sources.
 
-Buy 1 SOL → gets 1,000 tokens → sells those 1,000 at +50% Buy 2 SOL → gets 2,000 tokens → sells those 2,000 at +50% Both orders run independently.
+**DCA Mode**
 
-**Sell All** Sells a % of everything you hold at the moment the order triggers.
-
-Buy 1 SOL → 1,000 tokens, then Buy 2 SOL → 2,000 tokens First order hits → sells all 3,000 tokens at once Second order has nothing left to sell.
-
-**By Average** _(DCA)_ Instead of creating a new sell order for each buy, Thor updates the existing one. The trigger price shifts to your average entry.
-
-Buy 1 SOL at $0.001 → TP set at $0.002 Buy again at $0.003 → Thor recalculates: avg entry $0.0015, new TP at $0.003 You still have one order — not two.
+When you buy the same token multiple times, DCA merges everything into one averaged position. Your targets recalculate based on the new average entry – so you can profit at a lower price instead of waiting for a full recovery.\
+\
+Learn more here -> [Auto-Sell](https://odin.tools/blog/autosell-vs-limit-orders-solana-guide-2026)
 
 ***
 
@@ -65,7 +56,7 @@ Buy 1 SOL at $0.001 → TP set at $0.002 Buy again at $0.003 → Thor recalculat
 
 4. Configure your sell mode, Take Profit & Stop Loss and slippage — then enable Auto Sell.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (57).png" alt="" width="398"><figcaption></figcaption></figure></div>
+
 
 {% hint style="info" %}
 **Note:** Auto Sell rules only apply to new trades opened after enabling the feature — not to existing positions.

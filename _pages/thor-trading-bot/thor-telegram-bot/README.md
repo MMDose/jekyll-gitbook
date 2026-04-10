@@ -19,7 +19,6 @@ Thor is your all-in-one trading bot for the Solana blockchain, built for speed, 
 | ---------------------- | ----------------------------------------------- |
 | **Auto Buy / Sell**    | Automate entries and exits without manual input |
 | **Pro Trader Mode**    | Advanced controls for power users               |
-| **One-Tap Trading**    | Execute trades instantly with a single action   |
 | **Copy Trading**       | Mirror top-performing wallets automatically     |
 | **Trailing Stop-Loss** | Lock in profits with dynamic stop management    |
 | **Nuke All**           | Close all positions instantly in one click      |
