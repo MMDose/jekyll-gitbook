@@ -56,7 +56,7 @@ Learn more here -> [Auto-Sell](https://odin.tools/blog/autosell-vs-limit-orders-
 
 4. Configure your sell mode, Take Profit & Stop Loss and slippage — then enable Auto Sell.
 
-
+<div align="left"><figure><img src="../../.gitbook/assets/{8048C4EF-2A3D-4AC1-AFAD-C209986DB90F}.png" alt="" width="401"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **Note:** Auto Sell rules only apply to new trades opened after enabling the feature — not to existing positions.
